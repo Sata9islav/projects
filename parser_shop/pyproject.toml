@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "parsershop"
+version = "0.1.0"
+description = "Pareser Shop"
+authors = ["Yours_name <yours_mail>"]
+packages = [
+  { include = "parser_shop" },
+  ]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+bs4 = "^0.0.1"
+requests = "^2.25.1"
+lxml = "^4.6.2"
+beautifulsoup4 = "^4.9.3"
+pathlib = "^1.0.1"
+openpyxl = "^3.0.7"
+pytelegrambotapi = "^3.7.6"
+telebot = "^0.0.4"
+schedule = "^1.0.0"
+
+[tool.poetry.dev-dependencies]
+
+[tool.poetry.scripts]
+pageloader = 'parser_shop.script.start:main'
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"

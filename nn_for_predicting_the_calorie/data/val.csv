@@ -1,0 +1,552 @@
+,dish_id,total_calories,total_mass,ingredients,split
+1294,dish_1563389079,-0.9696003561571542,-0.6366951290677327,"broccoli,pepper,olive oil,carrot,salt",train
+60,dish_1558637769,-0.8280853942542034,-0.40926356308576256,apple,train
+2420,dish_1558640614,-0.9223910626349932,-0.6561892632947587,apple,train
+2087,dish_1559243704,-0.6561015311451105,-0.09085937071100438,pears,train
+329,dish_1558641954,-1.1226474873561885,-0.7471618896875468,cherry tomatoes,train
+341,dish_1562183151,-0.692962850481402,-0.1428437286497404,"olive oil,blueberries,pepper,vinegar,arugula,walnuts,salt,almonds,mushroom,green beans,spinach (raw),carrot,mustard,parsley,chard",train
+1917,dish_1566333228,1.1690633101261558,0.565443148265538,"jalapenos,vinegar,beef,bok choy,millet,bell peppers,shallots,caesar salad,spinach (raw),pepper,chicken,garlic,spinach (cooked),tomatoes,salt,cheese pizza,onions,olive oil",train
+1583,dish_1563565683,-0.8965105678912378,-1.0005856346388848,"olive oil,chard,cherry tomatoes,fish,chive,shallots,garlic,parsley,lemon juice,kale,salt,wheat berry",train
+973,dish_1560798744,0.49425617477064354,0.01960738990880969,"broccoli,cheese pizza,tofu",train
+1674,dish_1562876674,0.16991610809726942,-0.38976942885873656,"salt,cheese pizza,chicken,country rice,spinach (raw),parsley,garlic,squash,wheat berry,basil,lemon juice,zucchini,rosemary,olive oil,thyme,pepper",train
+690,dish_1558547205,0.17937718397374647,-0.20132613133081845,"potatoes,almonds,spinach (raw),white rice",train
+2095,dish_1560802006,-1.0388104195019607,-1.124048484743383,"parmesan cheese,croutons,kale,caesar dressing",train
+3225,dish_1564691450,1.3780127729095868,0.9683219222907422,"millet,corn on the cob,green beans,vinegar,steak,ketchup,onions,lettuce,mixed greens,pepper,cherry tomatoes,spinach (raw),olive oil,cucumbers,bell peppers,lime,salt",train
+3243,dish_1558114523,-0.7136490342045535,-1.292997648044275,almonds,train
+1857,dish_1562875159,0.03383827052196147,-0.7731540686569148,pizza,train
+1653,dish_1558723742,0.579961616976337,0.30552135857185786,"carrot,almonds,corn on the cob,cauliflower",train
+2686,dish_1567023161,-0.5340005089783639,-0.5392244579326027,"chicken,kimchi,olives",train
+1937,dish_1558719066,-0.8578661311352365,-0.48724009999386664,apple,train
+2215,dish_1566934401,0.8700990022701693,0.8253649379592182,"chive,white beans,onions,bell peppers,fish,artichokes,salt,cheese pizza,pepper,parsley,arugula,snow peas,olive oil,garlic,lime",train
+3,dish_1560455030,-1.1120046933258112,-0.7406638449452048,"cherry tomatoes,cucumbers,baby carrots",train
+1758,dish_1561661449,-0.07881474779786926,-0.6626873080371007,"sugar,salt,soy sauce,garlic,white rice,pepper,bok choy,pork",train
+1457,dish_1563309315,1.7161490901260916,1.5921342175555746,"olives,chicken,parsley,spinach (raw),wheat berry,thyme,olive oil,salt,lemon juice,shallots,bell peppers,lettuce,garlic",train
+2939,dish_1564601600,1.6570703651271268,1.4101889647699986,"buttermilk,chicken,flour,lemon juice,thyme,vegetable oil,parsley,garlic,olive oil,brussels sprouts,pepper,roasted potatoes,turnips,salt",train
+2363,dish_1564516454,0.27467551049418576,0.31851744805654186,"snow peas,parsley,olive oil,chive,lime,salt,fish,pepper,chicken breast,white beans,arugula,onions,artichokes,garlic,bell peppers,cherry tomatoes,olives",train
+1034,dish_1558468494,-1.1349368225850456,-0.9096130082460969,squash,train
+1450,dish_1558115601,-0.8023612866096294,-0.6886794870064687,potatoes,train
+372,dish_1563221495,0.5329992507040705,-0.34428311566234254,"garlic,salt,olive oil,wheat berry,thyme,parmesan cheese,spinach (raw),pepperoni pizza,chicken breast,cherry tomatoes",train
+2869,dish_1560456833,0.46767985097761905,1.0462984591988462,"nopales,sour cream,broccoli,garlic,carrot,fish,jicama,olive oil,wild rice,parsley,salt,lime,chive,corn,pepper,arugula",train
+2153,dish_1562688524,-0.18245412686605367,0.16256437424033376,"chicken apple sausage,grapes,roasted potatoes,watermelon",train
+2897,dish_1565811529,-0.6526365222082066,-0.7341658002028628,"garlic,salt,mustard,olive oil,blueberries,vinegar,spinach (raw),radishes",train
+553,dish_1560441487,-1.0125923714515983,-0.8381345160803348,"berries,cantaloupe",train
+2997,dish_1562173381,0.6481520095172676,-0.6756833975217847,sausage,train
+2669,dish_1567628193,1.141085568358561,1.4426791884817085,"quinoa,apple,arugula,chard,onions,kale,garlic,cranberries,shallots,country rice,green onions,bulgur,fish,parsley,lemon juice,mustard greens,olive oil,salt",train
+328,dish_1561739805,2.113161971662416,5.750882852654457,"raspberries,broccoli,berries,sweet potato,scrambled eggs,cantaloupe,vinaigrette,mixed greens,blackberries,granola",train
+2806,dish_1561494001,-0.43383481058045786,-0.0063847890605583275,"walnuts,salt,squash,mustard,olive oil,chard,arugula,vinegar,blueberries,pepper",train
+2147,dish_1562615388,0.5087171563912944,0.3640037612529359,"apple,steak,vinegar,arugula,onions,kale,lemon juice,mustard greens,garlic,roasted potatoes,salt,figs,goat cheese,pineapple,white rice,jalapenos,olive oil,cilantro,broccoli",train
+2988,dish_1562700906,-0.9256404618313051,0.032603479393493694,"olive oil,squash,salt,cauliflower",train
+3244,dish_1560799558,-0.27084172618208485,-0.9291071424731229,pizza,train
+2620,dish_1562011727,0.5667995149749732,-0.22731831030018645,"wheat berry,pork,jalapenos,lemon juice,pepper,cabbage,carrot,garlic,salt,parsley,mayonnaise,olive oil",train
+2235,dish_1558639138,-1.1046072370470008,-1.059068037319963,carrot,train
+1403,dish_1558725734,-1.0635155292729868,-0.9226090977307809,carrot,train
+1878,dish_1563824130,-0.6789926259720096,-0.09735741545334638,"couscous,pepper,squash,olive oil,zucchini,salt,broccoli,turnips",train
+1932,dish_1566501447,0.15830645636236768,0.8578551616709282,"onions,cherry tomatoes,olives,tuna,carrot,lemon juice",train
+3208,dish_1566501293,-1.0103015257132113,-1.046071947835279,"olives,onions",train
+1898,dish_1563304925,2.9631423448925958,1.8910442757033068,"chili,white rice,soy sauce,orange juice,onions,parsley,olive oil,thyme,green onions,beef,wheat berry,chicken,spinach (raw),lemon juice,kale,vinegar,broccoli,garlic,salt,shallots",train
+2650,dish_1563913588,-0.34733632236961376,-0.9680954109271749,cheese pizza,train
+1839,dish_1562700760,0.5561945291294018,1.3062202488925265,"beef,cauliflower,shallots,spinach (cooked),olive oil,onions,vinegar,mushroom,millet,bok choy,salt",train
+509,dish_1562775510,-0.6651640795456951,-0.17533395236145044,"olive oil,egg whites,salt,sweet potato,pepper,brussels sprouts",train
+555,dish_1563221519,0.6031558788473432,-0.07136523648397837,"cherry tomatoes,chicken breast,pepperoni pizza,thyme,parmesan cheese,wheat berry,spinach (raw),olive oil,broccoli,salt,garlic",train
+953,dish_1562872746,-0.05357604722981939,-0.09085937071100438,"pepper,fish,corn,garlic,vinegar,sour cream,nopales,mustard,olive oil,strawberries,jicama,arugula,parsley,figs,carrot,lime,salt,chive",train
+178,dish_1562775488,-0.7748236555941466,-0.46774596576684063,"egg whites,sweet potato",train
+1155,dish_1565194852,0.8352241589441672,3.5220535060311495,"watermelon,pepper,salt,egg whites,olive oil,sweet potato,grapes,carrot",train
+1162,dish_1558548666,-0.7449474485125513,-0.9226090977307809,white rice,train
+1782,dish_1565109659,-0.12811911683110955,0.29902331382951586,"sweet potato,bacon,olive oil,egg whites",train
+907,dish_1558637247,-0.6482029947174582,-0.6886794870064687,corn on the cob,train
+2137,dish_1564688969,-0.06815136019043591,-0.8251384265956508,cheese pizza,train
+427,dish_1559239753,-1.083581705536368,-1.059068037319963,"carrot,salt,pepper,olive oil",train
+869,dish_1563824065,-1.1362492753522233,-0.9810915004118589,"zucchini,broccoli,squash",train
+1564,dish_1568060646,-1.0600315637455693,-0.7796521133992568,"mixed greens,onions",train
+1480,dish_1563911156,-0.539971300463919,-0.7861501581415988,"olive oil,onions,pepper,tomatoes,millet,bell peppers,chicken,salt,garlic,spinach (raw),jalapenos",train
+1184,dish_1558379128,-1.035739256163987,-1.065566082062305,grapes,train
+292,dish_1558725253,-1.0482433468459984,-0.7796521133992568,broccoli,train
+2661,dish_1563477736,0.11195201821185778,0.11058001630159775,"shallots,salmon,vinegar,spinach (raw),parsley,lemon juice,chili,garlic,cilantro,salt,jalapenos,pepper,ginger,brown rice,apple,olive oil,brussels sprouts,onions,lime,millet,mixed greens",train
+982,dish_1566332193,1.3070128532966805,1.8650520967339388,"spinach (raw),avocado,olives,chicken,cucumbers",train
+3055,dish_1562775456,-0.9708802266878175,-0.9810915004118589,sweet potato,train
+519,dish_1562873495,-0.5416031994620722,-0.42225965257044656,"caesar salad,cheese pizza",train
+618,dish_1566332040,-1.138921906441749,-0.9875895451542009,spinach (raw),train
+1151,dish_1566413321,-1.143312652744843,-1.013581724123569,spinach (raw),train
+892,dish_1562860723,-0.7907162750109018,-0.37027529463171055,"berries,pineapple",train
+1453,dish_1565898723,1.669441898079653,2.410887855090667,"shallots,green beans,cherry tomatoes,ginger,jalapenos,onions,olive oil,tuna,garlic,lime,cilantro,salmon,olives,salt,brown rice,spinach (raw),lemon juice,carrot,chili",train
+2913,dish_1560444701,-0.9668712609633068,-0.30529484720829053,watermelon,train
+94,dish_1567021831,-0.0055085861824780615,0.07159174784754573,"cherry tomatoes,pepper,chive,wheat berry,kale,mustard,olive oil,garlic,walnuts,lemon juice,salt,fish,chard,blueberries,vinegar,arugula,parsley,shallots",train
+1551,dish_1560368815,0.7003621776123727,1.4621733227087346,"mixed greens,carrot,arugula,mustard,garlic,radishes,blueberries,eggplant,vinegar,tofu,spinach (raw),olive oil,pumpkin seeds,asparagus,salt,lettuce",train
+1186,dish_1562702441,-0.21190376770809416,1.0008121460024524,"bell peppers,lettuce,cauliflower,olive oil,cucumbers,onions,quinoa,cherry tomatoes,feta cheese,watermelon,vinaigrette,olives",train
+554,dish_1560874726,-0.3631811685056437,-0.46774596576684063,"berries,bacon,yam",train
+2473,dish_1565797671,-1.0229965424786807,-0.7471618896875468,"berries,watermelon",train
+323,dish_1562611853,0.0650219860032191,0.16906241898267577,"salt,broccoli,chickpeas,parsley,mustard greens,olive oil,arugula,vinegar,pepper",train
+1662,dish_1562180157,3.606080201484499,2.209448468078065,"olive oil,almonds,spinach (raw),mustard,bacon,chicken,carrot,salt,vegetable oil,blueberries,squash,vinegar,buttermilk,flour,garlic,parsley,lemon juice,thyme",train
+701,dish_1558114875,-0.8553843784036134,-0.48074205525152464,,train
+1183,dish_1558373449,0.7762186926723884,-0.9421032319578069,almonds,train
+678,dish_1562614980,1.4916918763479083,1.7415892466294407,"pineapple,chicken thighs,vinegar,mushroom,onions,lemon juice,basil,olive oil,jalapenos,kale,salt,radishes,white rice,brown rice,arugula,parsley,steak,thyme,cilantro,garlic,broccoli",train
+2728,dish_1560798707,0.21205494318704854,-0.5067342342208926,"broccoli,cheese pizza",train
+2724,dish_1568314951,1.1575337609630514,0.7019020878547201,"salt,lime,spinach (cooked),cilantro,olive oil,onions,avocado,spinach (raw),jalapenos,lemon juice,salmon,chili,tomatoes,shallots,garlic,ginger,brown rice,vinegar,bok choy,millet,beef",train
+1449,dish_1560270630,-0.6348922944275169,-0.012882833802900331,"pineapple,watermelon,sweet potato",train
+576,dish_1561576954,0.43790045995724186,0.29252526908717386,"shallots,vinegar,mushroom,chard,blueberries,mustard,salt,basil,walnuts,lemon juice,white wine,chicken,pepper,cream,thyme,wheat berry,arugula,olive oil,eggplant,oregano,rosemary,butter,garlic",train
+1362,dish_1565972363,0.17205129216491383,2.209448468078065,egg whites,train
+1011,dish_1558628888,-0.6759363005091384,-0.9421032319578069,eggs,train
+1548,dish_1564086778,1.871851675987346,1.4296830989970246,"salt,bok choy,chard,spinach (raw),pork,olive oil,parsley,lemon juice,cheese pizza,chive,carrot,chicken,cheese,white rice,pasta,corn on the cob,cherry tomatoes,brown rice,pepper,sugar,soy sauce,onions,rosemary,basil,garlic,pesto,caesar salad",train
+898,dish_1567022251,-0.6761749044222112,0.2405409111484378,"onions,cherry tomatoes,olives,carrot,bell peppers",train
+2375,dish_1568666230,-0.943962999254213,0.33151353754122587,"lettuce,broccoli",train
+612,dish_1562183125,-0.787650371029108,-0.5587185921596287,"blueberries,arugula,mushroom,chard,vinegar,pepper,olive oil,spinach (raw),walnuts,carrot,salt,mustard,parsley,almonds",train
+1479,dish_1560799368,-0.6929119464042576,-1.065566082062305,"white rice,rosemary,parsley,onions,zucchini,olive oil,salt,pork,arugula,garlic",train
+2292,dish_1558720335,-1.1356288431350121,-1.111052395258699,cantaloupe,train
+2326,dish_1565637608,0.8051256557717007,0.39649398496464594,"white rice,spinach (raw),parmesan cheese,pork,rosemary,parsley,salt,garlic,quinoa,chicken breast,arugula,cherry tomatoes,wheat berry,onions,olive oil,thyme,zucchini,pineapple",train
+2500,dish_1561392386,-0.37151405998345466,-1.078562171546989,sausage,train
+2967,dish_1561578603,-0.3487545540572705,-0.7861501581415988,"olive oil,onions,salt,roasted potatoes,spinach (cooked),shallots,bok choy,millet,beef,vinegar",train
+852,dish_1558026714,-0.5906030221826611,-1.2540093795902232,bacon,train
+1021,dish_1561407208,-0.9986200327001117,-1.221519155878513,"broccoli,white rice,chicken,salt,vinegar,ginger,spinach (raw),green beans,olive oil,soy sauce,garlic,green onions",train
+1288,dish_1561491210,-0.011894981347565281,0.3834978954799619,"chard,blueberries,cherry tomatoes,radishes,shallots,salt,chive,olive oil,wheat berry,vinegar,spinach (raw),wild rice,fish,garlic,cauliflower,lemon juice,mustard,parsley",train
+1015,dish_1560787781,-0.691833687708855,-0.7796521133992568,"bacon,berries,yam",train
+1670,dish_1565711154,0.8019217151666884,1.0917847723952403,"raspberries,bacon,vinaigrette,granola,blackberries,egg whites,mixed greens",train
+2234,dish_1566413469,0.9834956945083271,1.0527965039411884,"chicken,avocado,olives,parmesan cheese,spinach (raw),broccoli",train
+293,dish_1565036821,0.34338571546436275,-0.5392244579326027,"soy sauce,salt,vinegar,olive oil,beef,white rice,orange juice,chili,green onions,broccoli,garlic,kale,cheese pizza,onions",train
+2453,dish_1565204931,0.6573555821608242,1.9365305888997009,"onions,vinegar,chicken thighs,pineapple,white rice,caesar salad,pepper,salt,lemon juice,garlic,olive oil,brussels sprouts,cilantro,kale",train
+2578,dish_1561492665,-0.8191575703233085,-0.8056442923686248,"green onions,salt,caesar salad,garlic,onions,olive oil,country rice,fish",train
+1377,dish_1566588016,1.043488497520354,1.0203062802294782,"pepper,salmon,brown rice,arugula,thyme,carrot,olive oil,salt",train
+1873,dish_1568060722,0.9878719465603159,0.9228356090943483,"avocado,mixed greens,onions,chicken",train
+2298,dish_1567629106,0.1859394478096356,-0.03887501277226835,"caesar salad,cheese pizza",train
+2758,dish_1562871537,2.0626178597453,2.189954333851039,"squash,white rice,grilled chicken,pepper,cheese pizza,salt,brussels sprouts,olive oil,mushroom",train
+1838,dish_1562173267,0.7444239850887322,-0.29879680246594853,"chilaquiles,bacon",train
+635,dish_1559751775,0.26557432825669114,0.2405409111484378,"berries,eggs,yam",train
+2493,dish_1566416455,0.5666777527660678,1.2087495777573964,"thyme,white wine,basil,wheat berry,chard,eggplant,green beans,lemon juice,parsley,chicken,arugula,mushroom,chive,fish,cherry tomatoes,pepper,oregano,cream,butter,rosemary,garlic,shallots,olive oil,roasted potatoes,salt",train
+843,dish_1562702044,-1.0001165724786918,-0.25980853401189646,"olive oil,squash,salt,cherry tomatoes,cauliflower",train
+2983,dish_1563564676,-0.9686672165573574,-1.007083679381227,"kale,croutons,caesar dressing,parmesan cheese",train
+1751,dish_1567625434,1.563790848680605,1.1632632645610024,"salt,shallots,thyme,parsley,arugula,avocado,wheat berry,apple,bulgur,spinach (raw),olive oil,mustard greens,lemon juice,kale,cranberries,chard,garlic,chicken",train
+3233,dish_1563391413,-0.12663053290257648,0.13007415052862376,"tomatillo,pepper,fish,chicken thighs,tomatoes,squash,onions,garlic,cilantro,salt,quinoa,lime,parsley,jalapenos,lemon juice,arugula,cabbage,olive oil,hominy,bell peppers,chili",train
+2671,dish_1560441339,0.12928923768550146,-0.40926356308576256,"bacon,quinoa,potatoes,bok choy,scrambled eggs",train
+2722,dish_1562702355,-0.8815239799589428,-0.7666560239145728,"bell peppers,lettuce,onions,cucumbers,vinaigrette,cherry tomatoes,feta cheese,olives",train
+2022,dish_1564428475,0.0383065708522067,0.9943141012601103,"cauliflower,quinoa,pears,shallots,mixed greens,thyme,onions,mustard,arugula,vinegar,cherry tomatoes,salt,garlic,olive oil,parsley,lemon juice",train
+2595,dish_1559846585,-0.6615613203389037,-0.10385546019568839,pears,train
+1575,dish_1561661972,-1.1525714152203985,-1.156538708455093,green beans,train
+1328,dish_1559678629,-0.7837165253284349,-0.8901188740190709,"shallots,bell peppers,lime,onions,kale,salt,olive oil,ketchup,jalapenos,cilantro,fish,white rice",train
+2590,dish_1559843052,-0.9549398912610032,-0.5652166369019707,"strawberries,mandarin oranges",train
+885,dish_1561145732,-1.1162618128469843,-0.9745934556695169,orange with peel,train
+2332,dish_1558641989,-1.1446489730621614,-1.0525699925776208,cauliflower,train
+288,dish_1558381032,-0.6584687282266587,-1.2800015585595912,almonds,train
+2829,dish_1560441511,-0.9624805385229904,-0.6107029500983647,"watermelon,cantaloupe,berries",train
+385,dish_1562615153,1.0242504455451735,0.44847834290338195,"goat cheese,thyme,garlic,parsley,lemon juice,jalapenos,vinegar,white rice,apple,radishes,salt,cilantro,chicken thighs,arugula,onions,olive oil,mustard greens,steak,kale,squash,brown rice,basil,pineapple,figs",train
+1542,dish_1558116260,0.8589892041373415,-0.9226090977307809,almonds,train
+294,dish_1558628921,-1.0928667457026,-1.020079768865911,carrot,train
+83,dish_1560368972,-0.27083975988921183,-0.7146716659758368,"pork,cherry tomatoes,garlic,shallots,white rice,salt,onions,basil,olive oil,brown rice,vinegar,pepper,broccoli,lemon juice,parsley",train
+2487,dish_1565987116,0.667347098947684,1.1697613093033443,"chicken,olives,spinach (raw),cucumbers",train
+2533,dish_1560369255,-0.5771151025887068,-1.013581724123569,"brown rice,pork,salt,vinegar,cherry tomatoes,pepper,basil,garlic,parsley,shallots,onions,broccoli,lemon juice,olive oil",train
+1343,dish_1558115320,-0.38256726992551743,-1.215021111136171,almonds,train
+2049,dish_1560961059,0.07096859972252481,-0.2922987577236065,"cream cheese,bagels,sweet potato",train
+1741,dish_1563567599,-0.28331332053358094,-0.39626747360107856,"salt,garlic,olive oil,mustard,pecans,vinegar,chard,arugula,blueberries",train
+450,dish_1561667430,0.4229617598470045,-0.33128702617765854,"soy sauce,white rice,sugar,salt,pork,pepper,bok choy,garlic",train
+1366,dish_1562698132,-0.5989225123245805,-0.25331048926955446,"corn,salt,artichokes,chive,snow peas,parsley,olive oil,lentils,squash,arugula,fish,pepper,garlic",train
+775,dish_1558723512,-1.1339584487040584,-1.156538708455093,carrot,train
+1726,dish_1563568148,-0.39418471524357857,0.052097613620519706,"garlic,shallots,chive,olive oil,parsley,kale,lemon juice,chard,wheat berry,bok choy,salt,fish,cherry tomatoes",train
+1181,dish_1563568003,-0.6081930057415967,-0.5327264131902606,"kale,lemon juice,shallots,garlic,bok choy,chive,salt,cherry tomatoes,fish,olive oil,wheat berry,chard,parsley",train
+352,dish_1559844479,-0.8120018678442121,-0.5457225026749446,"mandarin oranges,grapes",train
+1094,dish_1559925174,-0.7886163410383064,-0.40276551834342056,berries,train
+2699,dish_1561737293,2.6164684985628215,2.7227940027230835,"broccoli,cantaloupe,sausage,pineapple,egg whites,hash browns",train
+2172,dish_1564159520,-0.12585154207342358,-1.137044574228067,bacon,train
+1318,dish_1561665747,1.110603437628526,0.630423595688958,"mixed greens,chickpeas,apple,lemon juice,pizza,onions,parsley,olive oil,corn on the cob,vinegar,millet,salt",train
+343,dish_1562007842,1.1391685664389324,1.4101889647699986,"caesar salad,garlic,pepper,arugula,quinoa,brussels sprouts,pork,thyme,parsley,lemon juice,couscous,shallots,carrot,jalapenos,mayonnaise,wheat berry,olive oil,cabbage,salt",train
+315,dish_1563479568,-0.8109348962426072,-0.8771227845343869,"goat cheese,apple,salt,lemon juice,brussels sprouts,olive oil,mustard greens,arugula,pepper,figs",train
+642,dish_1561753649,-0.42752094871411805,-0.1363456839073984,"brown rice,squash,cucumbers,salmon,pepper,salt,thyme,olive oil,arugula",train
+2581,dish_1566849269,-0.017838974933892263,-0.41576160782810456,"avocado,parmesan cheese,mixed greens",train
+3007,dish_1561739760,0.9477038571378424,4.678705470168026,"vinaigrette,granola,blackberries,berries,mixed greens,broccoli,raspberries,cantaloupe,sweet potato",train
+1185,dish_1558641897,-0.6532666618033396,-0.6951775317488107,corn on the cob,train
+271,dish_1559235690,-0.38650468549771705,-0.6886794870064687,eggs,train
+514,dish_1563566810,0.6619645726551556,0.7408903563087721,"mustard,olive oil,cucumbers,cherry tomatoes,figs,salt,vinegar,wild rice,olives,wheat berry,chard,spinach (raw)",train
+682,dish_1559059954,-0.693881118798208,-1.2800015585595912,bacon,train
+1115,dish_1562691613,-0.19051888185725244,0.53945096929617,"olive oil,egg whites,broccoli,yam,sweet potato",train
+2990,dish_1567024066,-0.11891227021446828,-0.8511306055650188,cheese pizza,train
+1612,dish_1562009314,-0.7350800229416894,-0.1428437286497404,"brussels sprouts,salt,pepper,olive oil",train
+2020,dish_1560455399,-0.5492779173536435,-0.44175378679747257,"pepper,fish,chard,blueberries,almonds,olive oil,parsley,nopales,lime,salt,corn,arugula,jicama,vinegar,spinach (raw),mustard,chive,sour cream,garlic,carrot",train
+1742,dish_1561481634,0.9949211065100503,0.07159174784754573,"scrambled eggs,bacon,yam",train
+3080,dish_1563824304,-0.8485118889140076,-0.6172009948407067,"olives,bell peppers,onions",train
+2333,dish_1562784388,1.012004316261412,0.9163375643520062,"shallots,apple,eggplant,corn on the cob,pilaf,cranberries,lemon juice,salt,arugula,parsley,pizza,olive oil,mustard greens,garlic,bulgur",train
+1752,dish_1561049320,-0.7197006632354557,-1.2864996033019331,bacon,train
+2174,dish_1557853429,0.36540183859810627,0.3834978954799619,"strawberries,eggs,yam",train
+1915,dish_1568666263,-0.7645149165871824,0.8513571169285862,"lettuce,broccoli,artichokes",train
+459,dish_1566501352,-0.8498004979938224,-0.30529484720829053,"cherry tomatoes,onions,olives,carrot",train
+2848,dish_1561575068,0.8034447474009432,1.4231850542546824,"eggplant,thyme,lemon juice,rosemary,salt,white wine,basil,lettuce,chicken,cucumbers,cherry tomatoes,pepper,mushroom,oregano,wheat berry,olive oil,butter,onions,shallots,garlic,bell peppers,olives,vinaigrette,feta cheese,arugula,cream",train
+1615,dish_1562094694,-0.5679046908730941,-0.48724009999386664,"green beans,vinegar,cherry tomatoes,mixed greens,carrot,garlic,salt,parsley,olive oil,cucumbers",train
+832,dish_1558026623,-1.0676676478002303,-0.8706247397920448,honeydew melons,train
+2212,dish_1566931179,-0.23490737553130675,0.29902331382951586,"salt,mixed greens,artichokes,garlic,olive oil,parsley,beets,avocado,vinegar,cauliflower",train
+1738,dish_1565641943,1.2279773055988956,0.584937282492564,"thyme,salt,cheese pizza,olive oil,garlic,wheat berry,spinach (raw),quinoa,chicken breast,cherry tomatoes,asparagus,parmesan cheese",train
+2050,dish_1562775275,-0.3813741310462649,0.6564157746583261,"cantaloupe,oatmeal,berries",train
+2654,dish_1562787745,-0.8028970489194134,-1.033075858350595,"garlic,bulgur,salt,shallots,cranberries,mustard greens,olive oil,lemon juice,arugula,parsley,apple",train
+538,dish_1567024252,1.2333522578458185,1.5401498596168386,"quinoa,wine,chicken thighs,cauliflower,lemon juice,garlic,shallots,spinach (cooked),roasted potatoes,cheese pizza,chayote squash,squash,eggplant,zucchini,mushroom,olive oil,salt,greek salad",train
+1071,dish_1565207631,-0.9028928109330252,-1.059068037319963,"vinegar,chicken thighs,white rice,pineapple,salt,cilantro,garlic,kale,olive oil,onions,lemon juice",train
+495,dish_1562963033,0.490606558613786,0.6434196851736421,"lemon juice,onions,salt,cilantro,garlic,pepper,quinoa,fish,tomatillo,roasted potatoes,olive oil,arugula,jalapenos",train
+1205,dish_1560888893,-0.1929340717570796,-0.49373814473620864,"garlic,shallots,roasted potatoes,thyme,olive oil,lemon juice,parsley,spinach (raw),wheat berry,chicken,white rice,salt",train
+1088,dish_1562960472,-0.5422570109325696,-0.33128702617765854,"roasted potatoes,caesar salad",train
+1177,dish_1564691380,-0.7508606352530159,-0.6886794870064687,"green beans,olive oil,corn on the cob",train
+1492,dish_1568048053,1.687624446904136,0.9033414748673222,"chicken apple sausage,turkey bacon,scrambled eggs,olive oil,broccoli",train
+380,dish_1567785165,0.09317289994774845,-0.6561892632947587,"mixed greens,blackberries,raspberries,sausage,vinaigrette,granola",train
+3161,dish_1565984245,-1.0272750812290141,-0.9031149635037549,"salt,carrot,olive oil,pepper",train
+207,dish_1567542876,1.1559983487197856,0.27952917960248985,"white rice,soy sauce,onions,orange juice,kale,lemon juice,chili,cilantro,green onions,cheese pizza,broccoli,beef,pineapple,chicken thighs,vinegar,olive oil,garlic,salt",train
+2323,dish_1559674866,-0.61055226606332,0.558945103523196,"honeydew melons,grapes,caesar salad",train
+1070,dish_1563294575,1.1087400315073535,2.241938691789775,"strawberries,watermelon,hash browns,olive oil,grapes,sweet potato,egg whites,yam,pineapple",train
+2077,dish_1566835701,0.5564655816474348,3.4245828348960194,"egg whites,salsa,sweet potato,olive oil",train
+2062,dish_1562790170,-0.7153875473204013,-0.8641266950497029,"salt,walnuts,olive oil,chard,mustard,vinegar,arugula,blueberries,pepper",train
+572,dish_1566413445,0.5929431207043815,0.9293336538366902,"chicken,avocado,spinach (raw),broccoli,olives",train
+1925,dish_1558638896,-1.1020300522952597,-0.5912088158713387,cherry tomatoes,train
+703,dish_1560539368,-0.07051608508822625,0.630423595688958,"quinoa,cilantro,salt,garlic,lemon juice,onions,arugula,jalapenos,olive oil,carrot,caesar salad,fish,pepper,tomatillo",train
+2466,dish_1559589942,0.1754304428280667,-0.24681244452721246,"mushroom,asparagus,pizza",train
+2560,dish_1558379712,2.072955582481919,-0.6366951290677327,almonds,train
+2810,dish_1558640477,-0.9267054528223704,-1.046071947835279,corn on the cob,train
+2923,dish_1558721669,-1.0945371401335535,-0.7796521133992568,cauliflower,train
+2866,dish_1562168365,-0.8761927252303338,-0.5002361894785506,pineapple,train
+742,dish_1559843690,-0.9156140242557275,-0.5392244579326027,"strawberries,potatoes,broccoli",train
+147,dish_1560441270,-1.0931530942610652,-1.111052395258699,"bok choy,potatoes",train
+1488,dish_1559149650,-1.085039754654703,-0.9940875898965429,carrot,train
+248,dish_1566847431,-0.7270956616481747,-0.8251384265956508,"quinoa,arugula,olive oil,thyme,lemon juice,parsley,salt,shallots,garlic",train
+1106,dish_1568666000,-0.20834525486350094,-0.1298476391650564,"cucumbers,lemon juice,parsley,pepper,salt,cheese pizza,caesar salad,garlic,tatsoi,kale",train
+1132,dish_1562007739,-1.0737765236345589,-0.9875895451542009,caesar salad,train
+959,dish_1561392632,1.1765545089404312,0.8773492958979542,"olive oil,cucumbers,mustard,bacon,berries,salt,bell peppers,garlic,broccoli,scrambled eggs,radishes,vinegar",train
+2828,dish_1566416339,-0.838108261958254,-0.20132613133081845,"eggplant,green beans,salt,olive oil",train
+2477,dish_1563308353,-0.9646497127310268,-0.5002361894785506,"salt,carrot,eggplant,olive oil",train
+680,dish_1567542778,0.03337045508507302,-0.7731540686569148,cheese pizza,train
+652,dish_1559841908,-0.3743011560445005,0.565443148265538,"grapes,broccoli,pears",train
+2603,dish_1560541680,-0.7566279249713257,-0.9096130082460969,"salt,walnuts,olive oil,mustard,chard,arugula,vinegar,blueberries,pepper",train
+38,dish_1562789268,1.5077538117167402,0.8643532064132702,"pork,corn on the cob,brown rice,lemon juice,parsley,basil,shallots,cherry tomatoes,cheese pizza,pepper,salt,vinegar,olive oil,onions,garlic,broccoli",train
+253,dish_1559843030,-1.0890009661887106,-0.9096130082460969,strawberries,train
+2482,dish_1562096584,-0.7569238425036025,-0.8251384265956508,"beets,olive oil,vinegar,quinoa,artichokes,mixed greens,garlic,parsley,salt,green beans",train
+566,dish_1563550584,-0.8504209540738114,-0.46774596576684063,egg whites,train
+2113,dish_1566931519,-0.5892189381297286,-0.22731831030018645,"mixed greens,olives",train
+1747,dish_1562775047,0.1493340281276106,1.5856361728132327,"berries,oatmeal",train
+1456,dish_1563813221,-1.1176701701172764,-1.163036753197435,"salt,pepper,olive oil,brussels sprouts",train
+2274,dish_1565117962,0.6028985187910882,0.565443148265538,"chicken breast,bell peppers,tuna",train
+1140,dish_1562617446,0.17944883912227888,0.09758392681691373,"broccoli,roasted potatoes,caesar salad,pepperoni pizza",train
+201,dish_1560455158,-0.8803885174131132,-1.0525699925776208,"olive oil,arugula,vinegar,carrot,mixed greens,mustard,lettuce,pumpkin seeds,salt",train
+74,dish_1558457530,-1.1339107231488883,-0.9940875898965429,cauliflower,train
+2371,dish_1558113154,-1.032446202402361,-1.059068037319963,grapes,train
+1126,dish_1561664042,0.1501119260415503,-0.05187110225695236,"pepper,chard,brown rice,olive oil,soy sauce,lemon juice,basil,chive,garlic,salt,cucumbers,white rice,chicken,pork,rosemary,parsley,sugar,bok choy,carrot",train
+2407,dish_1564518454,-0.4234776444526625,-1.007083679381227,cheese pizza,train
+2994,dish_1567537212,0.8538904014977436,0.13657219527096576,"beef,broccoli,garlic,green onions,soy sauce,kale,onions,salt,vinegar,olive oil,white rice,orange juice,chili",train
+2194,dish_1564588483,-0.37151405998345466,-1.078562171546989,sausage,train
+1245,dish_1558468285,-1.1514737274514861,-1.124048484743383,mixed greens,train
+506,dish_1559675178,-1.0720106733207095,-0.7601579791722308,"carrot,cherry tomatoes,brussels sprouts",train
+2798,dish_1558460138,-1.162164251809589,-1.046071947835279,cherry tomatoes,train
+1618,dish_1563475826,-0.8557661923900852,-0.26630657875423847,"honeydew melons,pineapple",train
+1,dish_1561662054,0.7915232616611153,0.48746661135743397,"pepper,white rice,mixed greens,garlic,soy sauce,millet,lemon juice,bok choy,olive oil,onions,vinegar,green beans,pork,apple,sugar,salt,parsley",train
+2045,dish_1562958445,-1.0950143956852545,-1.273503513817249,olives,train
+1262,dish_1558721827,3.0207089620368843,1.3776987410582886,"cantaloupe,apple,cauliflower,almonds",train
+409,dish_1562950057,0.31742343820926794,0.0391015241358357,"scrambled eggs,roasted potatoes",train
+209,dish_1559244305,-0.6706559450851182,-0.9940875898965429,"arugula,pepper,vinegar,chickpeas,salt,parsley,olive oil,mustard greens",train
+584,dish_1562789328,1.9231572300469792,1.8585540519915968,"broccoli,tofu,corn on the cob,vinegar,lemon juice,shallots,salt,cherry tomatoes,pork,brown rice,onions,parsley,basil,caesar salad,olive oil,garlic,pepper,cheese pizza",train
+659,dish_1568061320,1.3470540834209566,1.7805775150834928,"cherry tomatoes,white rice,squash,pork,arugula,rosemary,thyme,olive oil,brussels sprouts,cheese pizza,salt,garlic,pineapple,wheat berry,onions,spinach (raw),parmesan cheese,zucchini,parsley,quinoa,pepper,chicken breast",train
+2295,dish_1563550976,0.14842722826171215,-0.33778507092000054,"bacon,cheese,scrambled eggs,roasted potatoes",train
+1241,dish_1561574974,-0.9710224679324464,-0.42225965257044656,"eggplant,olive oil,salt",train
+3103,dish_1558381206,0.4237941269370596,-0.41576160782810456,"grapes,almonds,sausage,mixed greens",train
+291,dish_1562958629,-0.21295068025886102,-0.2922987577236065,"chicken salad,chickpeas,artichokes,olives",train
+1748,dish_1568660810,-0.5777171366044,-1.104554350516357,pepperoni pizza,train
+952,dish_1562874049,0.7567132296390344,-0.40276551834342056,cheese pizza,train
+673,dish_1566933454,-0.6292539782494989,-0.40926356308576256,"pears,bok choy,salt,arugula,lemon juice,parsley,olive oil,garlic,chickpeas,pepper",train
+1708,dish_1562008476,-0.6351508189873178,-0.6301970843253907,"olive oil,brussels sprouts,lemon juice,parsley,cucumbers,garlic,salt,carrot,cabbage,pepper,pork,wheat berry,jalapenos,mayonnaise",train
+2626,dish_1561737223,1.1940560140926368,0.7603844905357982,"sausage,broccoli,egg whites",train
+1962,dish_1562183201,1.4573119422564644,1.3517065620889206,"green beans,pepper,arugula,vinegar,almonds,mustard,pizza,walnuts,salt,carrot,roasted potatoes,spinach (raw),chard,mushroom,blueberries,olive oil,parsley",train
+1694,dish_1563555160,0.0727470973084943,0.45497638764572396,"scrambled eggs,olive oil,pepper,salt,sweet potato,cantaloupe,brussels sprouts",train
+686,dish_1566931650,1.7051346953780486,1.7610833808564668,"mixed greens,olives,chicken,avocado,broccoli,parmesan cheese",train
+2635,dish_1563302391,0.704551273899762,0.610929461461932,"thyme,lemon juice,parsley,shallots,garlic,salt,roasted potatoes,chicken,spinach (raw),mushroom,wheat berry,olive oil",train
+755,dish_1562613340,0.4572071174179793,-0.18183199710379244,"apple,steak,arugula,onions,lemon juice,olive oil,garlic,mustard greens,cilantro,salt,pineapple,white rice,kale,jalapenos,vinegar,goat cheese,figs",train
+222,dish_1558718051,-1.0945371401335535,-0.7796521133992568,cauliflower,train
+228,dish_1561392593,0.479427434339518,0.7019020878547201,"vinegar,olive oil,broccoli,berries,bell peppers,radishes,salt,garlic,scrambled eggs,mustard,cucumbers",train
+2262,dish_1568044528,-0.5160394162749812,0.10408197155925573,"sweet potato,olive oil,watermelon",train
+1810,dish_1567020340,-0.7636163159716622,-0.31829093669297454,"broccoli,olive oil",train
+1831,dish_1564515049,0.8497342215257555,2.560342884164533,"snow peas,olive oil,garlic,chive,artichokes,lime,carrot,zucchini,white beans,arugula,wheat berry,parsley,onions,squash,broccoli,bell peppers,salt,pepper,fish",train
+2104,dish_1564169878,2.2856893906644524,0.8058708037321921,"tomatoes,garlic,onions,chili,tortilla,salt,cilantro,olive oil,chicken thighs,cheese",train
+1944,dish_1562959799,1.1701148759185518,0.9488277880637163,"green onions,white rice,pork,vinegar,spinach (raw),cabbage,chard,mixed greens,parsnips,salt,cherry tomatoes,pepper,radishes,bok choy,mustard,cucumbers,olive oil,rice noodles,figs,carrot,soy sauce,garlic,sugar",train
+1292,dish_1560441464,-1.0742537791862599,-1.085060216289331,berries,train
+2742,dish_1565711270,-1.0593634012006323,-0.8056442923686248,cantaloupe,train
+2381,dish_1568060501,1.408217016822088,1.2737300251808163,"tomatoes,cherry tomatoes,garlic,lemon juice,cucumbers,mustard greens,olive oil,parsley,rosemary,lime,fried rice,mangos,white rice,pork,zucchini,jalapenos,arugula,onions,cilantro,salt",train
+1413,dish_1564159588,1.0669580308484703,-0.6756833975217847,"turkey bacon,sausage,bacon",train
+1448,dish_1560454513,-0.9504345797627234,-1.007083679381227,"garlic,olive oil,cucumbers,mixed greens,carrot,green beans,salt,cherry tomatoes,parsley,vinegar",train
+215,dish_1559675234,-1.0338302291846275,-0.6301970843253907,"carrot,bell peppers,cherry tomatoes,brussels sprouts",train
+2029,dish_1567537185,0.7129813107451218,-0.20782417607316045,"onions,vinegar,chili,green onions,beef,white rice,broccoli,soy sauce,garlic,salt,olive oil,orange juice,kale",train
+1635,dish_1562602627,1.5443330109787547,-0.29879680246594853,"hash browns,sausage",train
+2289,dish_1567537252,1.006387443175332,0.558945103523196,"pepper,white rice,kale,olive oil,soy sauce,chili,salt,vinegar,beef,onions,carrot,orange juice,garlic,broccoli,green onions",train
+1501,dish_1562095283,-0.11488695371475624,-0.1298476391650564,"onions,cucumbers,mustard,salt,garlic,sun dried tomatoes,vinegar,spinach (raw),olive oil",train
+159,dish_1566333167,0.4340861190467147,-0.5002361894785506,"vinegar,beef,bok choy,spinach (cooked),shallots,millet,salt,cheese pizza,olive oil,onions",train
+707,dish_1564685229,1.6123859157403515,0.8448590721862442,"green beans,cherry tomatoes,steak,bell peppers,lime,olive oil,ketchup,vinegar,spinach (raw),pepper,millet,mixed greens,onions,salt,lettuce,cucumbers",train
+1376,dish_1560444785,0.28392000780130106,1.5011615911627867,"bacon,watermelon,honeydew melons,pineapple",train
+362,dish_1562788010,-0.8874390995843919,-0.22731831030018645,"salt,caesar salad,eggplant,olive oil,cantaloupe",train
+1570,dish_1565810205,-0.6043215325689756,-0.41576160782810456,"salt,lettuce,carrot,olive oil,mustard,tofu,vinegar,arugula,mixed greens,pumpkin seeds",train
+171,dish_1559668314,1.4220123939875595,0.53945096929617,"scrambled eggs,garden salad,hash browns",train
+15,dish_1566417398,-0.9387490253048789,-1.111052395258699,"mustard,vinegar,mixed greens,celery root,olive oil,salt,cherry tomatoes",train
+2971,dish_1561753371,-0.15430678279305082,-0.7406638449452048,"olive oil,chicken thighs,cheese,tomatoes,garlic,chili,salt,cilantro,tortilla,onions",train
+2965,dish_1566414754,2.3953763134560164,2.053495394261857,"pepper,roasted potatoes,shallots,green onions,country rice,lemon juice,rosemary,butter,wheat berry,mushroom,cream,arugula,onions,fish,green beans,salt,garlic,olive oil,thyme,basil,oregano,chicken,white wine",train
+2284,dish_1563824092,-1.0371252492391265,-0.5327264131902606,"broccoli,zucchini,salt,olive oil,squash,turnips,pepper",train
+2160,dish_1562873790,-0.8489488306892564,-0.9226090977307809,"salt,lettuce,lime,olive oil,onions,cucumbers,vinegar,cherry tomatoes,pepper,mixed greens",train
+2351,dish_1565378770,0.31351165603275016,0.45497638764572396,"pork,wheat berry,pepper,bok choy,carrot,soy sauce,garlic,salt,sugar,white rice,olive oil",train
+2554,dish_1558380014,-0.7690011330908386,-0.5392244579326027,grapes,train
+2421,dish_1565987081,0.06910723625511353,0.46147443238806596,"spinach (raw),chicken,cucumbers",train
+1098,dish_1565811335,-0.6305047934621745,0.013109345166467685,"bok choy,olive oil,wheat berry",train
+1826,dish_1562950934,0.24162824094253466,1.6051303070402587,"sweet potato,olive oil,egg whites",train
+1119,dish_1563389719,1.318314174082406,1.5596439938438647,"cherry tomatoes,carrot,grilled chicken,onions",train
+1058,dish_1560441288,-0.4218453827402899,-0.9421032319578069,"bok choy,potatoes,bacon",train
+1558,dish_1560961179,-0.47567987578794296,-0.7341658002028628,scrambled eggs,train
+469,dish_1562963006,0.02628429828497082,0.1950545979520438,"cilantro,tomatillo,quinoa,fish,arugula,pepper,salt,onions,lemon juice,olive oil,jalapenos,garlic",train
+306,dish_1566501473,0.7652896455346564,1.0008121460024524,"olives,carrot,lemon juice,almonds,cherry tomatoes,onions,tuna",train
+3044,dish_1562691441,0.049067251776409825,0.09758392681691373,"broccoli,scrambled eggs,olive oil,yam",train
+1075,dish_1559668016,1.0283432698426735,0.40299202970698794,"scrambled eggs,hash browns,bagels,cream cheese,honeydew melons",train
+777,dish_1568401018,1.594606805351388,1.4946635464204445,"broccoli,chicken,mixed greens",train
+634,dish_1564518512,0.08169505665111532,-0.35078116040468454,"eggplant,mushroom,spinach (cooked),cheese pizza,olive oil,chicken thighs,squash,shallots,quinoa,garlic,wine,carrot,pepper,salt,lemon juice",train
+1175,dish_1561737200,1.0737875577933118,0.29252526908717386,"egg whites,sausage",train
+3015,dish_1558641926,-0.8280853942542034,-0.40926356308576256,apple,train
+1896,dish_1563222850,0.45238227378272455,0.09758392681691373,"parsley,thyme,pork,parmesan cheese,spinach (raw),cherry tomatoes,garlic,onions,salt,rosemary,zucchini,broccoli,olive oil,arugula,pepperoni pizza,wheat berry,brown rice,chicken breast,white rice",train
+3095,dish_1563563527,0.33081639349354486,0.552447058780854,"lemon juice,olive oil,shallots,garlic,fish,cherry tomatoes,chive,bok choy,salt,parsley,wheat berry,pizza,chard",train
+2672,dish_1563898688,-1.0549249341149238,-0.8056442923686248,broccoli,train
+3117,dish_1558722931,0.8865793762165108,-0.9161110529884389,almonds,train
+249,dish_1565726812,-1.0374585454262124,-0.9875895451542009,"broccoli,olive oil",train
+2813,dish_1557863012,-1.1954766893183209,-1.2085230663938291,cucumbers,train
+496,dish_1562613403,0.6925623519504789,0.6369216404313001,"vinegar,steak,squash,jalapenos,lemon juice,mustard greens,cilantro,pineapple,white rice,apple,kale,arugula,broccoli,olive oil,onions,goat cheese,garlic,salt,figs",train
+954,dish_1558638954,-0.7854664353068576,-0.5717146816443127,grapes,train
+489,dish_1562872150,-1.1745728961538158,-1.189028932166803,mushroom,train
+1029,dish_1564086748,0.9076540364136358,0.7928747142475081,"chicken,salt,cherry tomatoes,pasta,chard,corn on the cob,basil,olive oil,rosemary,onions,cheese pizza,carrot,cheese,brown rice,spinach (raw),garlic,parsley,chive,lemon juice,pesto,caesar salad",train
+2974,dish_1568061272,0.6051800771364393,1.2867261146655005,"quinoa,chicken breast,wheat berry,parmesan cheese,spinach (raw),olive oil,garlic,thyme,cherry tomatoes,salt,cheese pizza,pepper,pineapple,squash,brussels sprouts",train
+718,dish_1563813395,0.5644647951337184,-0.1558398181344244,"salt,pepper,brussels sprouts,olive oil,bacon,pineapple,sausage",train
+10,dish_1568649312,-0.9980837979073315,-0.9031149635037549,berries,train
+764,dish_1558640917,-1.1852156949567487,-1.273503513817249,cauliflower,train
+3082,dish_1562173742,-0.8229787598510023,-1.3124917822713011,bacon,train
+1439,dish_1558630600,-0.8578661311352365,-0.48724009999386664,apple,train
+937,dish_1558723671,-1.0282940647848955,-0.8056442923686248,carrot,train
+1050,dish_1561739576,-0.905591667215117,-0.8641266950497029,sweet potato,train
+1622,dish_1566414780,2.6431676058916325,2.8202646738582136,"wheat berry,chicken,cream,oregano,green beans,lemon juice,olive oil,thyme,onions,garlic,white wine,fish,pepper,caesar salad,arugula,mushroom,butter,green onions,rosemary,basil,shallots,country rice,roasted potatoes,salt",train
+1398,dish_1561576618,-0.9338241584510988,-0.18833004184613444,"salt,olive oil,squash,eggplant",train
+3022,dish_1564432191,0.035500828416756225,0.01960738990880969,"salt,lime,lettuce,mixed greens,vinegar,cucumbers,pepperoni pizza,onions,olive oil,cauliflower,pineapple,pepper,cherry tomatoes",train
+234,dish_1563910137,-0.5837151650642907,-0.49373814473620864,"vinegar,chard,spinach (raw),cherry tomatoes,green beans,olive oil,salt,cucumbers,figs,mustard",train
+2543,dish_1566416299,-0.9955089994333489,-0.8511306055650188,"green beans,olive oil",train
+736,dish_1566501258,-1.1530009452169294,-1.215021111136171,onions,train
+1787,dish_1563304369,0.971607707335673,0.7084001325970621,"garlic,parsley,kale,lemon juice,eggplant,parmesan cheese,shallots,roasted potatoes,salt,thyme,caesar dressing,olive oil,wheat berry,croutons,spinach (raw),chicken",train
+2494,dish_1566849295,0.4541667370630902,0.14307024001330776,"mixed greens,avocado,parmesan cheese,olives",train
+1388,dish_1562862550,0.5294204210906412,0.26003504537546385,"cream cheese,scrambled eggs,strawberries,bagels",train
+3172,dish_1562181285,2.593083444239912,0.6954040431123781,"flour,mustard,garlic,almonds,carrot,buttermilk,chicken,spinach (raw),blueberries,olive oil,lemon juice,parsley,vegetable oil,thyme,vinegar,salt,bacon",train
+136,dish_1558631825,-0.6431392894511327,-0.6821814422641267,corn on the cob,train
+2701,dish_1565021220,1.3846295106941469,0.9358316985790323,"turnips,egg whites,sweet potato,salt,olive oil,waffles,tofu,pepper,sausage",train
+3170,dish_1560889061,0.7107185419508413,0.41598811919167195,"shallots,blue cheese,pepper,vinegar,spinach (raw),wheat berry,thyme,walnuts,lemon juice,garlic,salt,carrot,mustard,olive oil,parsley,lettuce,mixed greens,chicken",train
+827,dish_1563984771,1.5712176704935115,1.1112789066222664,"mixed greens,granola,raspberries,blackberries,chicken apple sausage,vinaigrette,scrambled eggs",train
+1149,dish_1561753168,-0.03860005437077211,-0.5132322789632346,"brown rice,arugula,salmon,thyme,olive oil,pepper,salt",train
+1515,dish_1562702379,-0.7288022034146141,0.06509370310520371,"lettuce,cherry tomatoes,bell peppers,cucumbers,feta cheese,onions,olives,cauliflower,vinaigrette",train
+1382,dish_1562789207,-0.5123092536986633,-1.0525699925776208,cheese pizza,train
+1335,dish_1568060746,2.5066898186188875,1.1567652198186604,"olive oil,mixed greens,avocado,onions,chicken",train
+1667,dish_1558639673,-1.1338152720385481,-0.8316364713379928,cherry tomatoes,train
+2676,dish_1560543605,1.1071424280931454,1.8455579625069127,"pepper,tomatillo,salt,olives,chicken,brown rice,jalapenos,arugula,olive oil,onions,vinegar,garlic,broccoli,green onions,tomatoes,white rice,green beans,spinach (raw),ginger,lemon juice,soy sauce,caesar salad,quinoa,cilantro,fish",train
+240,dish_1562784307,-0.453735049861068,-0.38976942885873656,"salt,pizza,olive oil,eggplant,corn on the cob",train
+1825,dish_1563217895,-1.0823705693502605,-0.9356051872154649,"mangos,salt,arugula,cherry tomatoes,jalapenos,lemon juice,lime,mustard greens,cucumbers,olive oil,onions,tomatoes,cilantro",train
+1363,dish_1561392570,-0.4953193330899926,-0.19482808658847645,"bell peppers,mustard,salt,berries,cucumbers,garlic,olive oil,broccoli,vinegar,radishes",train
+1104,dish_1567110631,-0.0046576443063506,0.27952917960248985,"mixed greens,salt,olive oil,lettuce,cucumbers,onions,lime,wheat berry,green beans,vinegar,cherry tomatoes,pepper",train
+2891,dish_1563464543,0.6337006398234278,0.6629138194006681,"bacon,berries,watermelon,roasted potatoes,scrambled eggs",train
+2682,dish_1561663914,0.01817861385765814,-0.07786328122632037,"chicken,chive,garlic,vinegar,corn on the cob,soy sauce,pork,pepper,olive oil,white rice,carrot,apple,bok choy,chard,brown rice,green beans,basil,rosemary,salt,lemon juice,parsley,onions,sugar,mixed greens,millet",train
+878,dish_1560368162,-1.0115461509213812,-0.25331048926955446,"olive oil,cherry tomatoes,mushroom,salt,eggplant",train
+41,dish_1561492204,1.121772362951654,0.7603844905357982,"olive oil,blueberries,onions,tomatoes,salt,fried rice,chicken,pepper,mustard,garlic,bell peppers,millet,jalapenos,spinach (raw),vinegar,radishes",train
+1701,dish_1565119493,1.3151017860541285,0.40949007444932994,"mustard,olive oil,onions,vinegar,beef,caesar salad,bok choy,shallots,apple,millet,salt,cheese pizza,cranberries,spinach (raw),spinach (cooked)",train
+2561,dish_1567612954,-0.5022804489355494,-0.40276551834342056,"olive oil,sweet potato",train
+239,dish_1563552016,1.1454096802415266,-0.27930266823892247,"syrup,waffles",train
+3137,dish_1561576794,1.9144219119154189,3.3855945664419673,"vinegar,shallots,rosemary,thyme,olive oil,blueberries,wheat berry,chard,beef,chicken,spinach (cooked),onions,lemon juice,cream,squash,eggplant,mushroom,pineapple,millet,walnuts,garlic,white wine,mustard,oregano,arugula,pepper,bok choy,cauliflower,caesar salad,salt,butter,basil",train
+1868,dish_1558639979,1.2728414846538858,-0.8251384265956508,almonds,train
+1784,dish_1565034281,-0.11993362095788598,0.578439237750222,"roasted potatoes,cauliflower",train
+2038,dish_1565036788,-0.3219559007654863,-0.9550993214424909,cheese pizza,train
+3200,dish_1563555510,-0.28496852392032385,-0.5587185921596287,scrambled eggs,train
+3083,dish_1561662358,-0.7494765893805276,-0.8186403818533088,corn on the cob,train
+1097,dish_1567019993,-1.0762432237260813,-1.0525699925776208,"salt,pepper,brussels sprouts,olive oil",train
+3102,dish_1561749750,0.3671912557910985,0.6369216404313001,"cherry tomatoes,salt,broccoli,thyme,olive oil,arugula,brown rice,salmon,pepper",train
+2747,dish_1560366410,-0.9299266128076883,-0.7861501581415988,"blueberries,mustard,walnuts,salt,pepper,asparagus,olive oil,arugula,chard,vinegar",train
+1797,dish_1565208611,-0.8586813886137631,-0.38976942885873656,"pepper,olive oil,brussels sprouts,caesar salad,salt",train
+2956,dish_1562617395,-0.32305356944417657,-0.5977068606136807,"caesar salad,pepperoni pizza",train
+2903,dish_1560444815,1.1527160522982947,2.300421094470853,"honeydew melons,watermelon,scrambled eggs,bacon,pineapple",train
+89,dish_1564675118,-0.36462831233462256,0.13657219527096576,"olive oil,watermelon,sweet potato",train
+799,dish_1561579673,-0.15408525508361767,0.9293336538366902,"thyme,basil,mushroom,pepper,cauliflower,roasted potatoes,garlic,lemon juice,rosemary,olive oil,eggplant,oregano,arugula,chicken,shallots,salt,butter,white wine,cream,wheat berry",train
+629,dish_1560974009,1.0947918705221162,1.2477378462114483,"olive oil,chicken thighs,arugula,pepper,lemon juice,broccoli,tomatoes,bell peppers,pecans,garlic,orange,wheat berry,jalapenos,raisins,hominy,chili,cabbage,lime,mustard,salt,parsley",train
+2548,dish_1565383062,0.5219752440292162,1.2087495777573964,"olives,chicken,cucumbers,spinach (raw)",train
+2207,dish_1559242066,-1.085927807922531,-1.065566082062305,"salt,pepper,carrot,olive oil",train
+1530,dish_1563389446,-0.6481237607507647,-0.28580071298126447,"garlic,radishes,blueberries,spinach (raw),vinegar,olive oil,mustard,broccoli,salt",train
+665,dish_1564170474,-1.0218511052918207,-0.31829093669297454,"zucchini,squash,broccoli",train
+490,dish_1560454539,-0.6267121485890279,-0.6366951290677327,"green beans,vinegar,wild rice,cherry tomatoes,parsley,carrot,salt,mixed greens,garlic,olive oil,cucumbers",train
+2576,dish_1563395449,-0.18590704691983292,0.032603479393493694,"tortilla chips,pepper,cheese,black beans,squash,zucchini,sour cream,chili,tomatoes,cherry tomatoes,carrot,broccoli,cheese pizza,corn,spinach (raw),olive oil,onions,lime,garlic,salt",train
+3124,dish_1560455263,0.5110912020900097,0.9293336538366902,"mustard,basil,thyme,parsley,carrot,mixed greens,salt,pepper,chicken,rosemary,lemon juice,wild rice,green beans,vinegar,spinach (raw),zucchini,olive oil,honeydew melons,lettuce,pumpkin seeds,garlic,squash,wheat berry,arugula",train
+194,dish_1558029148,-1.0247146481471379,-0.7081736212334947,honeydew melons,train
+728,dish_1558636928,-1.1338152720385481,-0.8316364713379928,cherry tomatoes,train
+1675,dish_1558028690,-1.0968756923368888,-0.9810915004118589,honeydew melons,train
+1532,dish_1558628339,-0.8746177723646094,-1.325487871755985,bacon,train
+1399,dish_1558463362,-1.1106206474533227,-0.6561892632947587,cherry tomatoes,train
+340,dish_1559158354,-1.110047945563837,-1.020079768865911,broccoli,train
+939,dish_1561664061,0.23888163524249537,0.33801158228356787,"bok choy,chicken,pepper,green beans,pork,olive oil,cucumbers,parsley,salt,carrot,garlic,soy sauce,chive,white rice,chard,brown rice,sugar,lemon juice,basil,rosemary",train
+3016,dish_1562775574,-0.05303606120840275,1.1047808618799244,"salt,egg whites,brussels sprouts,olive oil,sweet potato,cottage cheese,pineapple,pepper",train
+2555,dish_1562613010,-0.7794434988797236,-0.5782127263866547,"mixed greens,cod",train
+2081,dish_1563216381,-1.044902572301758,-0.7666560239145728,broccoli,train
+2339,dish_1563820834,0.26394425237474506,0.610929461461932,"chicken,soy sauce,green beans,spinach (raw),olive oil,zucchini,green onions,salt,broccoli,white rice,ginger,vinegar,squash,pizza,garlic",train
+2285,dish_1558630814,-0.2722067295580605,-1.189028932166803,almonds,train
+1225,dish_1563207301,-0.31336528651720125,-0.28580071298126447,"yam,egg whites,olive oil,sweet potato",train
+1780,dish_1565382762,0.24931227963503055,-0.5067342342208926,"pepperoni pizza,pepper,olive oil,carrot,salt",train
+1520,dish_1559925083,-0.6130554618868808,-0.8836208292767288,"yam,sweet potato,bacon",train
+730,dish_1565107211,1.288803797698856,3.7819752957248296,"salsa,sweet potato,scrambled eggs,olive oil,egg whites,watermelon,grapes",train
+282,dish_1558718009,-1.0869487768615071,-0.9161110529884389,cantaloupe,train
+479,dish_1563302447,1.4691224422177445,1.4491772332240505,"lettuce,shallots,salt,blue cheese,lemon juice,thyme,olive oil,wheat berry,chicken,walnuts,garlic,carrot,roasted potatoes,parsley,mustard,mushroom,vinegar,spinach (raw),pepper,mixed greens",train
+948,dish_1561575033,0.4813383178429738,0.7928747142475081,"oregano,pepper,chicken,basil,lemon juice,garlic,salt,shallots,thyme,butter,olive oil,eggplant,mushroom,arugula,cream,white wine,rosemary,wheat berry",train
+1096,dish_1568664972,0.23782787884711704,0.026105434651151692,"vinegar,garlic,jalapenos,bell peppers,mustard,mustard greens,olive oil,tomatoes,pepper,chicken,millet,spinach (raw),cucumbers,onions,salt",train
+1856,dish_1560527168,0.33047776636194653,0.013109345166467685,"tomatoes,garlic,potatoes,olive oil,cucumbers,mustard greens,salt,mustard,spinach (raw),vinegar,berries,bacon",train
+1907,dish_1565024675,-0.5941442774665049,-1.189028932166803,turkey bacon,train
+1658,dish_1560527070,-0.9567057511199635,-0.9615973661848329,potatoes,train
+876,dish_1564685144,-1.0854096277072716,-1.085060216289331,"green beans,olive oil",train
+1148,dish_1562959517,-0.7752990832570846,-0.9291071424731229,"spinach (raw),vinegar,arugula,chard,cherry tomatoes,salt,pumpkin seeds,carrot,mixed greens,lettuce,mustard,figs,cucumbers,olive oil",train
+2746,dish_1561578676,-0.19832358507088477,0.045599568878177704,"onions,olive oil,cauliflower,salt,roasted potatoes,millet,spinach (cooked),shallots,bok choy,beef,mushroom,vinegar",train
+2217,dish_1560543525,-0.8120973046368858,-0.19482808658847645,"olives,tomatoes,caesar salad",train
+1023,dish_1562169762,0.04171354074146824,-0.04537305751461035,"scrambled eggs,salt,brussels sprouts,olive oil,pepper",train
+1089,dish_1563308386,-0.4666813034940639,-0.019380878545242335,"carrot,eggplant,salt,roasted potatoes,olive oil",train
+2461,dish_1562871297,-0.6138310307937281,-1.104554350516357,cheese pizza,train
+1120,dish_1559841870,-0.6615613203389037,-0.10385546019568839,pears,train
+2424,dish_1562961609,0.8111050426297419,-0.20132613133081845,"sugar,salt,pizza,pork,bok choy,white rice,soy sauce,pepper,garlic",train
+1299,dish_1562947376,-1.0360733350501778,-0.9356051872154649,pineapple,train
+1717,dish_1562180025,2.602588356038813,0.25353700063312185,"bacon,garlic,chicken,flour,lemon juice,parsley,thyme,vegetable oil,buttermilk,salt",train
+1324,dish_1568320470,1.2764142006236978,0.8058708037321921,"vinegar,feta cheese,olive oil,vinaigrette,spinach (cooked),olives,lettuce,beef,quinoa,bok choy,millet,cherry tomatoes,cucumbers,onions,shallots,salt,cheese pizza,bell peppers,green beans",train
+2842,dish_1558373405,-1.145364856389713,-1.150040663712751,cantaloupe,train
+1405,dish_1567801716,-0.7280430568713009,-1.163036753197435,cheese pizza,train
+2447,dish_1563294408,-1.0122105574651263,-0.8706247397920448,pineapple,train
+895,dish_1567537280,2.2881001373150935,1.2152476224997384,"chili,onions,kale,orange juice,soy sauce,green onions,carrot,pepper,white rice,vinegar,olive oil,cheese pizza,salt,garlic,broccoli,beef",train
+2700,dish_1566590946,0.7255335899201883,0.07159174784754573,"thyme,olive oil,salt,brown rice,arugula,pepper,salmon",train
+2384,dish_1563305047,3.716494194473746,3.8274616089212237,"salt,broccoli,parsley,lemon juice,kale,green onions,orange juice,wheat berry,eggplant,tofu,pepper,beef,soy sauce,garlic,shallots,chili,onions,thyme,olive oil,vinegar,spinach (raw),carrot,chicken,white rice",train
+2544,dish_1563221602,0.9273255366534268,0.578439237750222,"garlic,mustard,onions,cranberries,wheat berry,pepperoni pizza,chicken breast,apple,salt,broccoli,thyme,olive oil,squash,vinegar,spinach (raw),parmesan cheese,cherry tomatoes",train
+2771,dish_1560456794,-0.23054525501620377,-0.18833004184613444,"salt,parsley,chive,nopales,lime,olive oil,carrot,garlic,corn,pepper,arugula,fish,sour cream,jicama",train
+3058,dish_1564428515,1.102596354198195,1.7026009781753888,"pears,shallots,parsley,onions,cabbage,mayonnaise,pork,jalapenos,arugula,vinegar,cherry tomatoes,garlic,mixed greens,carrot,salt,mustard,lemon juice,thyme,olive oil,wheat berry,pepper,quinoa,cauliflower",train
+3125,dish_1558718088,-0.16307756101210297,1.2217456672420803,"apple,corn on the cob,cantaloupe,cauliflower",train
+163,dish_1567020054,-0.628013104269965,-0.46774596576684063,"shallots,garlic,parsley,salt,kale,brussels sprouts,lemon juice,olive oil,wheat berry,chive,chard,pepper,fish,cherry tomatoes",train
+1427,dish_1560270585,-1.0012336654583363,-0.6691853527794427,"pineapple,watermelon",train
+3042,dish_1566938059,1.0005984192391977,0.25353700063312185,"shallots,wine,salt,cheese pizza,lemon juice,bok choy,olive oil,chicken thighs,squash,eggplant,mushroom,quinoa,garlic,spinach (cooked)",train
+419,dish_1568056019,-0.9033962773596257,-0.5587185921596287,"olives,cherry tomatoes,onions",train
+1305,dish_1560787696,-1.0295349387644293,-1.3644761402100372,bacon,train
+245,dish_1565640427,-0.2759866317079768,-1.137044574228067,brownies,train
+184,dish_1568061202,0.014135166419536915,0.7603844905357982,"salt,pepper,brussels sprouts,olive oil,squash,pineapple,cheese pizza",train
+2035,dish_1560368110,-1.1338152720385481,-0.8316364713379928,cherry tomatoes,train
+1563,dish_1565797699,-0.5949514502359858,-0.29879680246594853,"berries,vinaigrette,granola,blackberries,mixed greens,watermelon,raspberries",train
+700,dish_1562949541,1.1484477268167674,1.0203062802294782,"turkey bacon,bok choy,olive oil,scrambled eggs,berries",train
+2908,dish_1560454562,0.3113236015950883,0.532952924553828,"corn,arugula,green beans,fish,vinegar,cherry tomatoes,wild rice,pepper,olive oil,cucumbers,chive,sour cream,garlic,carrot,jicama,parsley,nopales,lime,salt,mixed greens",train
+1736,dish_1561749778,0.3862813299099187,0.7993727589898502,"olive oil,thyme,salt,broccoli,salmon,cherry tomatoes,pepper,brown rice,arugula,radishes",train
+2205,dish_1562950895,-0.552524968452641,-0.47424401050918263,"sweet potato,olive oil",train
+2374,dish_1559846528,0.3299562024048256,0.32501549279888386,"pears,broccoli,almonds",train
+129,dish_1558723414,-0.9621512321923167,-1.091558261031673,corn on the cob,train
+1997,dish_1565641844,-0.04277094335886391,-0.8121423371109668,cheese pizza,train
+2735,dish_1561741174,-0.036986582209469855,-0.6756833975217847,"scrambled eggs,bacon",train
+2779,dish_1566316558,1.1296552072167665,0.29902331382951586,"vinegar,garlic,radishes,scrambled eggs,bacon,salt,bell peppers,olive oil,mustard,cucumbers",train
+1595,dish_1562611878,0.15894875642895778,0.610929461461932,"chickpeas,parsley,salt,broccoli,olive oil,mustard greens,squash,arugula,vinegar,pepper",train
+672,dish_1565727821,0.13140825233505382,-0.1363456839073984,"parmesan cheese,chicken,mixed greens,broccoli",train
+229,dish_1566416421,0.28707893843523236,0.9748199670330843,"wheat berry,lemon juice,green beans,chard,fish,cherry tomatoes,garlic,roasted potatoes,shallots,chive,salt,parsley,olive oil,eggplant",train
+2989,dish_1564086602,-0.5884505805542676,-1.091558261031673,cheese pizza,train
+2767,dish_1562873264,1.193188396907533,2.456374168287061,"pepper,fish,corn,jicama,chive,arugula,parsley,nopales,olive oil,garlic,salt,bok choy,country rice,sour cream,green beans,carrot,lime",train
+1353,dish_1564589072,0.790912126382051,0.15606632949799176,"sweet potato,olive oil,chilaquiles",train
+1320,dish_1561406762,-1.1281577845050184,-1.182530887424461,"carrot,salt,pepper,olive oil",train
+2922,dish_1562699699,0.5656570606353114,0.00011325568178367666,"bok choy,millet,vinegar,spinach (raw),shallots,onions,cucumbers,olive oil,garlic,mustard,salt,quinoa,sun dried tomatoes,beef,brown rice,spinach (cooked)",train
+2086,dish_1561749348,-0.4206668812888079,-0.8056442923686248,"brown rice,arugula,salmon,thyme,olive oil,pepper,salt",train
+1998,dish_1561746970,0.23884842780120802,0.9488277880637163,"garlic,salt,tatsoi,thyme,olive oil,kale,cucumbers,brown rice,arugula,lemon juice,parsley,wheat berry,pepper,salmon",train
+2307,dish_1562094931,0.5877843079517129,0.42248616393401395,"garlic,shallots,arugula,mushroom,bell peppers,chicken thighs,white beans,squash,onions,olive oil,snow peas,lemon juice,parsley,lime,pepper,spinach (cooked),wine,fish,quinoa,eggplant,salt,artichokes,chive",train
+2660,dish_1561491154,-0.41737133148064653,-0.38327138411639455,"cherry tomatoes,chive,garlic,olive oil,parsley,spinach (raw),chard,vinegar,fish,shallots,mustard,lemon juice,blueberries,wheat berry,radishes,salt",train
+2158,dish_1558638163,-1.0165535829856058,-0.7666560239145728,carrot,train
+1607,dish_1560453412,1.6106830106612162,2.6903037790113733,"salmon,kimchi,olive oil,spinach (raw),squash,wheat berry,thyme,basil,rosemary,zucchini,tomatoes,chicken,garlic,green beans,pepper,arugula,brown rice,wild rice,parsley,lemon juice,salt",train
+397,dish_1561578623,-0.21512299958098297,-0.05836914699929436,"olive oil,onions,salt,millet,shallots,spinach (cooked),roasted potatoes,bok choy,beef,cauliflower,vinegar",train
+586,dish_1564160161,-0.052926898546062154,-0.7796521133992568,bagels,train
+298,dish_1560798960,1.146038726921446,1.3776987410582886,"cauliflower,croutons,sunflower seeds,garlic,onions,tofu,parmesan cheese,spinach (raw),caesar dressing,olive oil,mustard,kale,lemon juice,broccoli,carrot,salt,mixed greens,pears,cherry tomatoes,squash,vinegar,cranberries,cheese pizza,raisins",train
+2016,dish_1568649354,-0.862492016476098,-0.5717146816443127,"broccoli,berries,olive oil",train
+825,dish_1559581333,0.7748573307562724,0.11058001630159775,"olive oil,vinegar,bacon,eggs,cherry tomatoes,lettuce,lime,salt,mixed greens,pepper,onions,cucumbers",train
+1163,dish_1568666089,0.10897761843699158,0.7668825352781401,"cheese pizza,bell peppers,tomatoes,zucchini,lemon juice,olive oil,chayote squash,jalapenos,spinach (raw),millet,caesar salad,garlic,brussels sprouts,onions,salt,parsley,cucumbers,tatsoi,kale,pepper,chicken",train
+27,dish_1563822597,-0.9267818041655316,-0.26630657875423847,"broccoli,caesar salad,squash,zucchini",train
+175,dish_1563306392,1.068457171669807,0.46147443238806596,"chicken,spinach (raw),wheat berry,thyme,olive oil,lemon juice,parsley,salt,garlic,shallots",train
+533,dish_1560357267,1.4950038867000477,1.0787886829105564,scrambled eggs,train
+227,dish_1558458737,-1.0117333114585365,-1.202025021651487,white rice,train
+2861,dish_1566588066,1.4921087161193192,2.241938691789775,"carrot,pineapple,salt,thyme,olive oil,arugula,brown rice,pepper,salmon",train
+2948,dish_1566402041,-0.10342054546114188,1.4881655016781026,egg whites,train
+2591,dish_1564432165,-0.03608750433839796,-0.37027529463171055,"lime,mixed greens,cherry tomatoes,olive oil,vinegar,cucumbers,pepperoni pizza,onions,pineapple,pepper,salt,lettuce",train
+1789,dish_1558632921,-0.8256036462951359,-0.40276551834342056,apple,train
+103,dish_1559845290,-0.894232980312077,-0.8511306055650188,potatoes,train
+600,dish_1558720396,-0.7545402946468529,-0.8251384265956508,corn on the cob,train
+2532,dish_1562699612,-0.7406938320471276,-0.9291071424731229,"brown rice,quinoa,olive oil",train
+2088,dish_1562785328,-0.5711150362476105,-0.8186403818533088,"apple,shallots,garlic,bulgur,lemon juice,salt,olive oil,mustard greens,cranberries,parsley,arugula",train
+756,dish_1561578461,1.2817405062122358,1.1372710855916344,"beef,salt,bell peppers,olive oil,cucumbers,lettuce,roasted potatoes,basil,thyme,garlic,rosemary,mushroom,arugula,pepper,cauliflower,olives,bok choy,cheese pizza,white wine,caesar salad,spinach (cooked),butter,lemon juice,oregano,millet,vinaigrette,cherry tomatoes,shallots,onions,cream,feta cheese,vinegar,wheat berry,chicken",train
+745,dish_1561580322,-0.9990860297933482,-0.9161110529884389,"caesar salad,wheat berry",train
+1165,dish_1562085185,1.4170679739738261,0.06509370310520371,"bacon,hash browns,scrambled eggs",train
+1877,dish_1563218987,0.6202881695596418,-0.2922987577236065,"pepperoni pizza,pork,arugula,white rice,salt,garlic,olive oil,parsley,zucchini,onions,rosemary",train
+1835,dish_1566413356,-0.3322168664917252,-0.34428311566234254,"spinach (raw),chicken",train
+2608,dish_1562963648,-0.004777654987381372,0.1950545979520438,"mixed greens,caesar salad,carrot,cabbage,pizza,rice noodles,garlic,soy sauce,olive oil,green onions,vinegar,radishes",train
+3257,dish_1563295334,-0.11955173061052587,-0.7861501581415988,"bacon,scrambled eggs",train
+512,dish_1562096401,0.5406056590085265,0.8773492958979542,"chicken thighs,lemon juice,mushroom,wine,green beans,quinoa,salt,garlic,spinach (cooked),shallots,olive oil,cucumbers,eggplant,squash",train
+3108,dish_1558462531,-1.1484192871480439,-0.9421032319578069,cherry tomatoes,train
+2168,dish_1559674689,-0.9061643691046027,-0.25980853401189646,honeydew melons,train
+3034,dish_1559581236,0.20682767767059979,-0.032376968029926345,"mixed greens,lime,lettuce,olive oil,cucumbers,onions,salt,vinegar,pepper,eggs,cherry tomatoes",train
+2239,dish_1562698100,-1.0956257600469836,-0.8706247397920448,"squash,olive oil,salt",train
+384,dish_1558026756,-0.3327895492909888,-0.25331048926955446,"honeydew melons,cantaloupe,bacon",train
+1886,dish_1562945186,-0.2961802733841062,0.013109345166467685,"broccoli,greek yogurt,chia seeds,milk,olive oil",train
+3115,dish_1564170141,-0.9111278316148489,-0.5457225026749446,"onions,cherry tomatoes,olives",train
+378,dish_1565021104,0.18001686390735783,-0.1298476391650564,"waffles,tofu,egg whites",train
+3251,dish_1563294547,0.8431951189017902,1.5466479043591805,"yam,sweet potato,olive oil,grapes,watermelon,hash browns,pineapple,strawberries",train
+2896,dish_1563391922,-1.0936303498127662,-0.7341658002028628,"broccoli,squash,zucchini",train
+3129,dish_1562945803,-0.9702343949301446,-0.9940875898965429,"vinaigrette,raspberries,mixed greens,honeydew melons,granola,blackberries",train
+1904,dish_1565209963,-0.04359195653934421,0.2340428664060958,"vinegar,lemon juice,chicken thighs,white rice,pineapple,kale,pepper,salt,cilantro,garlic,olive oil,onions,brussels sprouts",train
+2300,dish_1566417442,-0.7624601691702219,-0.38327138411639455,"eggplant,vinegar,cherry tomatoes,salt,mixed greens,celery root,mustard,olive oil",train
+2226,dish_1566419603,0.6172555111995792,0.2275448216637538,"caesar salad,roasted potatoes,green beans,cheese pizza,olive oil",train
+2819,dish_1567023335,-0.5500534862604907,-0.6496912185524167,"greek salad,garlic,salt,pecans,raspberries,mustard,olive oil,almonds,blueberries,arugula,vinegar,chard,carrot",train
+2531,dish_1560367193,-0.5848665727181024,0.6499177299159841,"onions,olive oil,salt,honeydew melons,green onions,garlic,cherry tomatoes,fish,asparagus,mushroom,country rice,tofu",train
+687,dish_1561061630,-0.3193130695126086,-0.43525574205513057,"apple,caesar dressing,olive oil,cranberries,bulgur,shallots,croutons,arugula,parmesan cheese,mustard greens,parsley,kale,lemon juice,salt,garlic",train
+2388,dish_1562777099,0.23924240225913734,0.578439237750222,"salt,pepper,strawberries,sweet potato,scrambled eggs,olive oil,brussels sprouts",train
+931,dish_1558381665,-1.1250814954424193,-1.078562171546989,broccoli,train
+2327,dish_1558722103,0.24459899925754164,0.9813180117754263,"cherry tomatoes,cauliflower,apple,cantaloupe,almonds",train
+165,dish_1565370004,1.5143076281293644,0.9943141012601103,"bacon,olive oil,scrambled eggs,green beans",train
+1712,dish_1559244417,-0.86267444263818,-1.0265778136082528,"pepper,chard,blueberries,vinegar,arugula,olive oil,mustard,walnuts,salt",train
+2459,dish_1562790295,1.3607507116402253,0.33151353754122587,"walnuts,salt,mustard,grilled chicken,blueberries,olive oil,arugula,chard,vinegar,pepper,eggplant",train
+2708,dish_1562007763,0.17711252047492584,0.526454879811486,"salt,arugula,quinoa,parsley,caesar salad,garlic,shallots,lemon juice,thyme,olive oil",train
+938,dish_1563897395,-0.5616161665039943,0.10408197155925573,"cantaloupe,sweet potato,olive oil,broccoli",train
+44,dish_1564761488,0.3550598921498546,0.7733805800204822,"turkey bacon,egg whites,fried rice,honeydew melons",train
+950,dish_1567023375,-0.023974639122337948,0.33151353754122587,"tofu,almonds,chard,blueberries,vinegar,pecans,arugula,carrot,mustard,olive oil,garlic,greek salad,raspberries,salt",train
+1840,dish_1564432128,-0.1744916143316958,-0.7471618896875468,"salt,lime,lettuce,mixed greens,olive oil,cucumbers,pepperoni pizza,onions,vinegar,pepper,cherry tomatoes",train
+539,dish_1563309353,1.7737060953435693,2.027503215292489,"wheat berry,olive oil,spinach (raw),cherry tomatoes,chicken,olives,parsley,bell peppers,garlic,shallots,lettuce,salt,lemon juice,thyme",train
+769,dish_1565898544,-0.3418836681463185,-0.22731831030018645,"shallots,cherry tomatoes,ginger,onions,lemon juice,lime,garlic,cilantro,salmon,olives,jalapenos,brown rice,spinach (raw),salt,olive oil,chili",train
+2872,dish_1563303298,-0.39530969248493714,-0.7406638449452048,"salt,spinach (raw),wheat berry,olive oil,thyme,lemon juice,parsley,chicken,shallots,garlic",train
+3037,dish_1562008780,-0.3471721035068289,-0.1428437286497404,"goat cheese,vinegar,chard,blueberries,arugula,mixed greens,garlic,cauliflower,olives,pears,salt,pecans,mustard,olive oil",train
+144,dish_1565022062,-0.09059866939747481,0.9683219222907422,"olive oil,egg whites,berries,sweet potato",train
+1579,dish_1560366998,-1.0212784034023348,-0.5587185921596287,"honeydew melons,cherry tomatoes",train
+2154,dish_1561578417,0.17278812223862944,0.14956828475564976,"olive oil,cucumbers,onions,cauliflower,spinach (cooked),caesar salad,millet,bok choy,vinaigrette,shallots,vinegar,cheese pizza,lettuce,bell peppers,olives,salt,beef,feta cheese,cherry tomatoes",train
+3029,dish_1561749711,0.22186687825491402,0.07159174784754573,"salmon,salt,thyme,olive oil,arugula,brown rice,cherry tomatoes,pepper",train
+210,dish_1561577573,2.395073948201236,0.8383610274439022,"onions,bok choy,millet,beef,salt,spinach (cooked),shallots,olive oil,pizza,vinegar",train
+2952,dish_1562787983,-0.9393813507304387,-0.44175378679747257,"caesar salad,cantaloupe",train
+2809,dish_1562097001,1.3186083830398077,1.3062202488925265,"salt,olive oil,mixed greens,lettuce,cucumbers,green beans,parsley,onions,lime,cherry tomatoes,pepper,white beans,vinegar,arugula,pizza,snow peas,garlic,bell peppers,chive,artichokes,fish",train
+1143,dish_1560961012,-0.29537273312785045,-0.9486012767001489,"cream cheese,bagels",train
+544,dish_1561654707,-0.25671500480473414,-0.5327264131902606,scrambled eggs,train
+2297,dish_1558640105,-0.8406228546443897,-0.9356051872154649,corn on the cob,train
+219,dish_1562169818,0.4449445275902397,0.3769998507376199,"olive oil,vinaigrette,pepper,scrambled eggs,granola,mixed greens,salt,raspberries,blackberries,brussels sprouts",train
+971,dish_1563304333,0.9432757560427166,0.591435327234906,"croutons,salt,chicken,spinach (raw),parsley,lemon juice,caesar dressing,olive oil,garlic,wheat berry,parmesan cheese,kale,thyme,shallots,roasted potatoes",train
+2344,dish_1559678127,-0.6917716063066899,-0.30529484720829053,"vinegar,parsley,eggplant,cherry tomatoes,salt,garlic,carrot,mixed greens,olive oil,broccoli,cucumbers",train
+2788,dish_1560543583,0.005094648135218834,0.8643532064132702,"olives,fish,pepper,tomatoes,quinoa,arugula,lemon juice,cilantro,salt,tomatillo,jalapenos,brown rice,onions,olive oil,garlic,caesar salad",train
+749,dish_1558375506,-0.8578661311352365,-0.48724009999386664,,train
+744,dish_1563217993,0.12465416994782506,0.7798786247628241,"mangos,pork,garlic,onions,jalapenos,lemon juice,cucumbers,olive oil,mustard greens,parsley,tomatoes,salt,cherry tomatoes,squash,white rice,zucchini,arugula,rosemary,broccoli,cilantro,lime",train
+1860,dish_1560798656,0.16027268719215396,-0.7081736212334947,cheese pizza,train
+1790,dish_1563465847,0.06758012825844716,-0.22731831030018645,"roasted potatoes,scrambled eggs",train
+760,dish_1562946075,1.452260908125037,0.519956835069144,"sausage,scrambled eggs,watermelon",train
+2241,dish_1561736715,-0.44036292200906724,-0.7016755764911528,scrambled eggs,train
+2895,dish_1563307519,1.5297249248794031,0.7668825352781401,"olive oil,salt,vinegar,soy sauce,beef,white rice,chili,broccoli,garlic,green onions,onions,carrot,kale,orange juice",train
+837,dish_1560543557,-0.7909071820041377,-0.16883590761910844,"tomatoes,brown rice,olives,caesar salad",train
+313,dish_1562614158,0.9561424893556881,0.545949014038512,"apple,white rice,vinegar,lemon juice,cranberries,olive oil,kale,pineapple,jalapenos,spinach (raw),steak,mustard,onions,salt,cilantro,garlic,broccoli",train
+2536,dish_1562872396,-0.3532964806014769,-0.20132613133081845,"thyme,garlic,lemon juice,zucchini,wheat berry,pepper,salt,olive oil,basil,rosemary,parsley,spinach (raw),squash,chicken,bok choy",train
+1867,dish_1566501067,1.004757219344165,0.578439237750222,"spinach (raw),carrot,parmesan cheese,olives,chicken",train
+540,dish_1561752481,0.21185234820535156,-0.31179289195063253,"tortilla,tomatoes,cheese,garlic,squash,cilantro,chili,salt,onions,chicken thighs,olive oil",train
+1881,dish_1566402123,0.9140697780225974,2.8592529423122652,"egg whites,watermelon,yam,sweet potato,olive oil",train
+416,dish_1562170356,0.6287562198096944,1.3971928752853144,"turkey bacon,pineapple,watermelon,roasted potatoes,berries",train
+324,dish_1566592456,-0.9456811383305588,-0.5912088158713387,caesar salad,train
+1953,dish_1565382856,0.9198451142695085,0.500462700842118,"salt,radishes,pepperoni pizza,tofu,rice noodles,cabbage,olive oil,carrot,green onions,vinegar,soy sauce,garlic,roasted potatoes,mixed greens,pepper",train
+1421,dish_1558641211,-1.1946176293252588,-1.3579780954676952,carrot,train
+2277,dish_1558629677,-0.8578661311352365,-0.48724009999386664,apple,train
+966,dish_1558629818,-0.4653377098021375,-1.2345152453631971,almonds,train
+551,dish_1558114569,-1.0818421424583062,-1.156538708455093,grapes,train
+1387,dish_1561666619,-1.0390323146981686,-1.072064126804647,grapes,train
+3183,dish_1563216625,-0.3916107758295891,-0.7016755764911528,"salt,thyme,olive oil,wheat berry,parmesan cheese,spinach (raw),cherry tomatoes,chicken breast,garlic",train
+2840,dish_1564083508,0.10820408741135004,0.052097613620519706,"grilled chicken,olives,cherry tomatoes",train
+14,dish_1562963704,1.9575397842714017,1.7026009781753888,"radishes,bok choy,vinegar,salt,roasted potatoes,mixed greens,soy sauce,caesar salad,garlic,sugar,pepper,white rice,pork,rice noodles,cabbage,pizza,olive oil,carrot,green onions",train
+180,dish_1562775212,-0.7689056628902763,-0.5262283684479186,oatmeal,train
+2102,dish_1563464429,-0.5373889852149971,-0.7406638449452048,"bacon,berries",train
+1766,dish_1562789301,1.686247502594257,1.4166870095123405,"caesar salad,pepper,corn on the cob,lemon juice,parsley,olive oil,salt,cherry tomatoes,cheese pizza,pork,brown rice,vinegar,basil,onions,garlic,broccoli,shallots",train
+454,dish_1562790321,2.452520850562936,0.8903453853826382,"salt,pepper,walnuts,olive oil,pizza,chard,mustard,vinegar,arugula,grilled chicken,eggplant,blueberries",train
+2839,dish_1565034234,-1.0014723075518532,-0.27280462349658047,cauliflower,train
+1040,dish_1561060503,-0.5167763895253625,-0.5132322789632346,"pineapple,bok choy,cheese pizza",train
+1419,dish_1568319725,-0.6774764041744776,-1.0265778136082528,"olive oil,mustard,cucumbers,salt,garlic,bell peppers,radishes,vinegar",train
+1985,dish_1563481030,-0.46665763639125496,-0.5717146816443127,"mustard,cucumbers,salt,figs,cherry tomatoes,chard,spinach (raw),vinegar,olive oil",train
+2905,dish_1561753589,-0.5480224393542277,-0.9031149635037549,"arugula,brown rice,salt,pepper,thyme,salmon,olive oil",train
+1475,dish_1559848857,-1.0762105364933452,-1.065566082062305,mandarin oranges,train
+2545,dish_1558114484,-0.48732492079455897,-1.2280172006208552,bacon,train
+1610,dish_1566931548,-0.47062090489669034,0.2340428664060958,"mixed greens,olives,broccoli",train
+655,dish_1563217968,-0.003804373423130886,0.1755604637250178,"white rice,lemon juice,tomatoes,cucumbers,onions,jalapenos,arugula,garlic,salt,lime,rosemary,broccoli,mustard greens,olive oil,pork,parsley,mangos,zucchini,cherry tomatoes,cilantro",train
+739,dish_1557853229,-0.27518484238111907,-0.5912088158713387,eggs,train
+2836,dish_1563220058,-0.5104240751792222,-1.072064126804647,pepperoni pizza,train

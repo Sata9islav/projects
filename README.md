@@ -1,4 +1,4 @@
-# Hexlet's projects
+# My projects
 
 <table>
 <tr>
@@ -19,6 +19,11 @@
 <tr>
   <td><a href = "https://github.com/Sata9islav/projects/tree/main/text-auto-completion">text-auto-completion</a></td>
   <td>text-auto-completion</td>  
+  <td>Сompleted</td>
+</tr>
+<tr>
+  <td><a href = "https://github.com/Sata9islav/projects/tree/main/nn_for_predicting_the_calorie">NN for predicting the calorie</a></td>
+  <td>A neural network for predicting the calorie content of dishes</td>  
   <td>Сompleted</td>
 </tr>
 </table>

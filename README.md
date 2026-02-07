@@ -22,8 +22,13 @@
   <td>Сompleted</td>
 </tr>
 <tr>
-  <td><a href = "https://github.com/Sata9islav/projects/tree/main/nn_for_predicting_the_calorie">NN for predicting the calorie</a></td>
+  <td><a href = "https://github.com/Sata9islav/projects/tree/main/nn_for_predicting_the_calorie">nn for predicting the calorie</a></td>
   <td>A neural network for predicting the calorie content of dishes</td>  
+  <td>Сompleted</td>
+</tr>
+<tr>
+  <td><a href = "https://github.com/Sata9islav/projects/tree/main/mmdet">mmdetection for character detection</a></td>
+  <td> Character detection with FCOS and YOLO</td>  
   <td>Сompleted</td>
 </tr>
 </table>

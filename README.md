@@ -8,7 +8,7 @@
 </tr> 
 <tr>
   <td><a href = "https://github.com/Sata9islav/projects/tree/main/parser_shop">shop's parser</a></td>
-  <td>Shop's parser</td>
+  <td>shop's parser</td>
   <td>completed</td>
 </tr>
 <tr>
@@ -23,12 +23,12 @@
 </tr>
 <tr>
   <td><a href = "https://github.com/Sata9islav/projects/tree/main/nn_for_predicting_the_calorie">nn for predicting the calorie</a></td>
-  <td>A neural network for predicting the calorie content of dishes</td>  
+  <td>a neural network for predicting the calorie content of dishes</td>  
   <td>completed</td>
 </tr>
 <tr>
   <td><a href = "https://github.com/Sata9islav/projects/tree/main/mmdet">mmdetection for character detection</a></td>
-  <td> Character detection with FCOS and YOLO</td>  
+  <td>character detection with FCOS and YOLO</td>  
   <td>completed</td>
 </tr>
 </table>

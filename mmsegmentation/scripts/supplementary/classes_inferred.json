@@ -1,0 +1,67 @@
+{
+  "data_root": "data/train_dataset",
+  "splits": {
+    "train": {
+      "images_count": 200,
+      "masks_count": 200,
+      "paired_count": 200,
+      "only_images_count": 0,
+      "only_masks_count": 0,
+      "examples_only_images": [],
+      "examples_only_masks": [],
+      "unique_labels": [
+        0,
+        1,
+        2
+      ],
+      "min_label": 0,
+      "max_label": 2,
+      "note": "If mask images are RGB (ndim=3), run a conversion step."
+    },
+    "val": {
+      "images_count": 120,
+      "masks_count": 120,
+      "paired_count": 120,
+      "only_images_count": 0,
+      "only_masks_count": 0,
+      "examples_only_images": [],
+      "examples_only_masks": [],
+      "unique_labels": [
+        0,
+        1,
+        2
+      ],
+      "min_label": 0,
+      "max_label": 2,
+      "note": "If mask images are RGB (ndim=3), run a conversion step."
+    },
+    "test": {
+      "images_count": 120,
+      "masks_count": 120,
+      "paired_count": 120,
+      "only_images_count": 0,
+      "only_masks_count": 0,
+      "examples_only_images": [],
+      "examples_only_masks": [],
+      "unique_labels": [
+        0,
+        1,
+        2
+      ],
+      "min_label": 0,
+      "max_label": 2,
+      "note": "If mask images are RGB (ndim=3), run a conversion step."
+    }
+  },
+  "global": {
+    "unique_labels": [
+      0,
+      1,
+      2
+    ],
+    "min_label": 0,
+    "max_label": 2,
+    "suggested_num_classes": 3,
+    "suggested_ignore_index": null
+  }
+}

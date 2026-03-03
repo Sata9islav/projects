@@ -16,29 +16,29 @@ The target metric is mDice score. The project is considered completed when mDIce
 1. Identify classes/ignore + check pairs
 
 ```
-python practicum_work/src/data/scan_and_infer_classes.py \
+python scripts/src/data/scan_and_infer_classes.py \
   --data_root data/train_dataset
 ```
 
 2. Quality check train
 
 ```
-python practicum_work/src/data/quality_check.py \
+python scripts/src/data/quality_check.py \
   --data_root data/train_dataset --split train
 ```
 
 3. Overlays for bad stems
 
 ```
-python practicum_work/src/data/dump_overlays.py \
+python scripts/src/data/dump_overlays.py \
   --data_root data/train_dataset --split train \
-  --stems_file practicum_work/supplementary/bad_stems.txt --take 30
+  --stems_file scripts/supplementary/bad_stems.txt --take 30
 ```
 
 4. EDA for train
 
 ```
-python practicum_work/src/analysis/eda.py \
+python scripts/src/analysis/eda.py \
   --data_root data/train_dataset --split train
 ```
 
@@ -93,7 +93,7 @@ python tools/test.py \
 ```
 
 ```
-python practicum_work/src/analysis/analyze_seg.py 
+python scripts/src/analysis/analyze_seg.py 
 ```
 
 Metrics on test (120 images):
@@ -148,7 +148,7 @@ python tools/test.py \
 ```
 
 ```
-python practicum_work/src/analysis/analyze_seg.py 
+python scripts/src/analysis/analyze_seg.py 
 ```
 
 Metrics on test (120 images):
@@ -215,7 +215,7 @@ python tools/test.py \
 ```
 
 ```
-python practicum_work/src/data/postprocess_and_eval.py \
+python scripts/src/data/postprocess_and_eval.py \
   --pred_dir work_dirs_stage3/deeplab_r50/preds.pkl \
   --gt_dir data/train_dataset/labels/test \
   --out_dir work_dirs_stage3/deeplab_r50/preds_pp \
@@ -306,7 +306,7 @@ python tools/test.py \
 ```
 
 ```
-python practicum_work/src/analysis/analyze_seg.py 
+python scripts/src/analysis/analyze_seg.py 
 ```
 
 Learning outcomes:

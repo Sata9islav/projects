@@ -31,4 +31,14 @@
   <td>character detection with FCOS and YOLO</td>  
   <td>completed</td>
 </tr>
+<tr>
+  <td><a href = "https://github.com/Sata9islav/projects/tree/main/mmsegmentation">mmsegmentation for the task of multi-class semantic segmentation</a></td>
+  <td>select a semantic segmentation model from mmsegementation and then train it to achieve the specified metrics on the test dataset</td>  
+  <td>completed</td>
+</tr>
+<tr>
+  <td><a href = "https://github.com/Sata9islav/projects/tree/main/further_training_of_the_diffusion_model">further training of the diffusion model</a></td>
+  <td>generate photos</td>  
+  <td>completed</td>
+</tr>
 </table>

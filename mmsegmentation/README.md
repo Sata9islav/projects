@@ -54,15 +54,15 @@ python practicum_work/src/analysis/eda.py \
 ###### EDA
 
 - Image sizes: all images are the same size 256×256, which simplifies the pipeline.
-  ![image heights hist](https://github.com/Sata9islav/projects/tree/main/mmsegmentation/scripts/supplementary/viz/stage1/eda/image_heights_hist.png)
-  ![image widths hist](https://github.com/Sata9islav/projects/tree/main/mmsegmentation/scripts/supplementary/viz/stage1/eda/image_widths_hist.png)
-  ![image size scatter](https://github.com/Sata9islav/projects/tree/main/mmsegmentation/scripts/supplementary/viz/stage1/eda/image_sizes_scatter.png)
+  ![image heights hist](scripts/supplementary/viz/stage1/eda/image_heights_hist.png)
+  ![image widths hist](scripts/supplementary/viz/stage1/eda/image_widths_hist.png)
+  ![image size scatter](scripts/supplementary/viz/stage1/eda/image_sizes_scatter.png)
 - Class balance:
 
   - there is a strong imbalance in pixels: the background (class 0) dominates (~90%), while classes 1 and 2 take up a small share (~5% and ~4% according to your graphs);
-    ![class pixel count](https://github.com/Sata9islav/projects/tree/main/mmsegmentation/scripts/supplementary/viz/stage1/eda/class_pixel_fraction.png)
+    ![class pixel count](scripts/supplementary/viz/stage1/eda/class_pixel_fraction.png)
   - by presence in images, classes 1 and 2 occur in about half of train-samples (by your graph - about 100 images each), i.e. the problem is more “in the area of objects” than “in the rarity of images”.
-    ![class presence count](https://github.com/Sata9islav/projects/tree/main/mmsegmentation/scripts/supplementary/viz/stage1/eda/class_presence_count.png)
+    ![class presence count](scripts/supplementary/viz/stage1/eda/class_presence_count.png)
 - basic CrossEntropy can “stick” to the background → it is reasonable to try DiceLoss / CE+Dice and/or class weights right away;
 - due to the small proportion of objects, augmentations and/or crops are useful to see the object more often in patches.
 

@@ -105,18 +105,18 @@ Observations:
  • High overall accuracy with low mDice indicates pixel imbalance (background is dominant).
 
 Examples of correct predictions:
-![best example 1](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/segformer_b0/quality_report/best/01_000000414495_3471_mDice=0.929_c1=0.875_c2=nan.png)
-![best example 2](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/segformer_b0/quality_report/best/02_000000272153_1436_mDice=0.929_c1=nan_c2=0.869.png)
-![best example 3](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/segformer_b0/quality_report/best/03_000000497010_7263_mDice=0.915_c1=0.843_c2=nan.png)
-![best example 4](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/segformer_b0/quality_report/best/04_000000502680_4731_mDice=0.915_c1=nan_c2=0.851.png)
-![best example 5](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/segformer_b0/quality_report/best/05_000000284148_7566_mDice=0.911_c1=0.844_c2=nan.png)
+![best example 1](work_dirs_eval/segformer_b0/quality_report/best/01_000000414495_3471_mDice=0.929_c1=0.875_c2=nan.png)
+![best example 2](work_dirs_eval/segformer_b0/quality_report/best/02_000000272153_1436_mDice=0.929_c1=nan_c2=0.869.png)
+![best example 3](work_dirs_eval/segformer_b0/quality_report/best/03_000000497010_7263_mDice=0.915_c1=0.843_c2=nan.png)
+![best example 4](work_dirs_eval/segformer_b0/quality_report/best/04_000000502680_4731_mDice=0.915_c1=nan_c2=0.851.png)
+![best example 5](work_dirs_eval/segformer_b0/quality_report/best/05_000000284148_7566_mDice=0.911_c1=0.844_c2=nan.png)
 
 Examples of errors (fails):
-![worst example 1](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/segformer_b0/quality_report/worst/01_000000364566_4776_mDice=0.295_c1=0.000_c2=0.000.png)
-![worst example 2](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/segformer_b0/quality_report/worst/02_000000287567_4976_mDice=0.301_c1=0.000_c2=0.019.png)
-![worst example 3](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/segformer_b0/quality_report/worst/03_000000366787_5428_mDice=0.305_c1=0.000_c2=0.000.png)
-![worst example 4](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/segformer_b0/quality_report/worst/04_000000485148_1904_mDice=0.309_c1=0.001_c2=0.000.png)
-![worst example 5](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/segformer_b0/quality_report/worst/05_000000380117_1580_mDice=0.310_c1=0.003_c2=0.000.png)
+![worst example 1](work_dirs_eval/segformer_b0/quality_report/worst/01_000000364566_4776_mDice=0.295_c1=0.000_c2=0.000.png)
+![worst example 2](work_dirs_eval/segformer_b0/quality_report/worst/02_000000287567_4976_mDice=0.301_c1=0.000_c2=0.019.png)
+![worst example 3](work_dirs_eval/segformer_b0/quality_report/worst/03_000000366787_5428_mDice=0.305_c1=0.000_c2=0.000.png)
+![worst example 4](work_dirs_eval/segformer_b0/quality_report/worst/04_000000485148_1904_mDice=0.309_c1=0.001_c2=0.000.png)
+![worst example 5](work_dirs_eval/segformer_b0/quality_report/worst/05_000000380117_1580_mDice=0.310_c1=0.003_c2=0.000.png)
 
 Hypotheses of the reasons:
  • class imbalance / small objects / similar textures between class_1 and class_2
@@ -166,11 +166,11 @@ Examples of correct predictions:
 - the model correctly separates the background from the objects;
 - there is no “flowing” of classes into each other.
 
-![best example 1](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/deeplab_r50/quality_report/best/01_000000446604_4215_mDice=0.984_c1=0.973_c2=nan.png)
-![best example 2](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/deeplab_r50/quality_report/best/02_000000414495_3471_mDice=0.983_c1=0.971_c2=nan.png)
-![best example 3](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/deeplab_r50/quality_report/best/03_000000395290_2371_mDice=0.983_c1=0.971_c2=nan.png)
-![best example 4](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/deeplab_r50/quality_report/best/04_000000322321_6994_mDice=0.982_c1=0.967_c2=nan.png)
-![best example 5](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/deeplab_r50/quality_report/best/05_000000563342_7436_mDice=0.981_c1=0.966_c2=nan.png)
+![best example 1](work_dirs_eval/deeplab_r50/quality_report/best/01_000000446604_4215_mDice=0.984_c1=0.973_c2=nan.png)
+![best example 2](work_dirs_eval/deeplab_r50/quality_report/best/02_000000414495_3471_mDice=0.983_c1=0.971_c2=nan.png)
+![best example 3](work_dirs_eval/deeplab_r50/quality_report/best/03_000000395290_2371_mDice=0.983_c1=0.971_c2=nan.png)
+![best example 4](work_dirs_eval/deeplab_r50/quality_report/best/04_000000322321_6994_mDice=0.982_c1=0.967_c2=nan.png)
+![best example 5](work_dirs_eval/deeplab_r50/quality_report/best/05_000000563342_7436_mDice=0.981_c1=0.966_c2=nan.png)
 
 Examples of errors (fails):
 
@@ -185,11 +185,11 @@ Examples of errors (fails):
 - False positives in the background
 - small islands of class_1/class_2 in the background (FP), often in textured areas
 
-![worst example 1](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/deeplab_r50/quality_report/worst/01_000000531614_4831_mDice=0.478_c1=0.434_c2=0.000.png)
-![worst example 2](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/deeplab_r50/quality_report/worst/02_000000436539_4321_mDice=0.525_c1=0.000_c2=0.591.png)
-![worst example 3](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/deeplab_r50/quality_report/worst/03_000000443499_491_mDice=0.600_c1=0.807_c2=0.000.png)
-![worst example 4](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/deeplab_r50/quality_report/worst/04_000000355603_7766_mDice=0.624_c1=0.000_c2=0.879.png)
-![worst example 5](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/deeplab_r50/quality_report/worst/05_000000282137_4359_mDice=0.637_c1=0.927_c2=0.000.png)
+![worst example 1](work_dirs_eval/deeplab_r50/quality_report/worst/01_000000531614_4831_mDice=0.478_c1=0.434_c2=0.000.png)
+![worst example 2](work_dirs_eval/deeplab_r50/quality_report/worst/02_000000436539_4321_mDice=0.525_c1=0.000_c2=0.591.png)
+![worst example 3](work_dirs_eval/deeplab_r50/quality_report/worst/03_000000443499_491_mDice=0.600_c1=0.807_c2=0.000.png)
+![worst example 4](work_dirs_eval/deeplab_r50/quality_report/worst/04_000000355603_7766_mDice=0.624_c1=0.000_c2=0.879.png)
+![worst example 5](work_dirs_eval/deeplab_r50/quality_report/worst/05_000000282137_4359_mDice=0.637_c1=0.927_c2=0.000.png)
 
 #### Report: Model Comparison
 
@@ -330,19 +330,19 @@ Difference (R101 − R50):
 
 Examples of correct predictions:
 
-![best example 1](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/deeplab_r101/quality_report/best/01_000000556500_5818_mDice=0.989_c1=0.983_c2=nan.png)
-![best example 2](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/deeplab_r101/quality_report/best/02_000000543836_507_mDice=0.989_c1=0.983_c2=nan.png)
-![best example 3](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/deeplab_r101/quality_report/best/03_000000406211_2388_mDice=0.988_c1=0.980_c2=nan.png)
-![best example 4](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/deeplab_r101/quality_report/best/04_000000284148_7566_mDice=0.986_c1=0.975_c2=nan.png)
-![best example 5](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/deeplab_r101/quality_report/best/05_000000415604_7522_mDice=0.984_c1=0.973_c2=nan.png)
+![best example 1](work_dirs_eval/deeplab_r101/quality_report/best/01_000000556500_5818_mDice=0.989_c1=0.983_c2=nan.png)
+![best example 2](work_dirs_eval/deeplab_r101/quality_report/best/02_000000543836_507_mDice=0.989_c1=0.983_c2=nan.png)
+![best example 3](work_dirs_eval/deeplab_r101/quality_report/best/03_000000406211_2388_mDice=0.988_c1=0.980_c2=nan.png)
+![best example 4](work_dirs_eval/deeplab_r101/quality_report/best/04_000000284148_7566_mDice=0.986_c1=0.975_c2=nan.png)
+![best example 5](work_dirs_eval/deeplab_r101/quality_report/best/05_000000415604_7522_mDice=0.984_c1=0.973_c2=nan.png)
 
 Examples of errors (fails):
 
-![worst example 1](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/deeplab_r101/quality_report/worst/01_000000284884_6459_mDice=0.332_c1=0.000_c2=0.000.png)
-![worst example 2](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/deeplab_r101/quality_report/worst/02_000000445187_3686_mDice=0.342_c1=0.041_c2=0.000.png)
-![worst example 3](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/deeplab_r101/quality_report/worst/03_000000308083_5809_mDice=0.359_c1=0.000_c2=0.087.png)
-![worst example 4](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/deeplab_r101/quality_report/worst/04_000000502680_4731_mDice=0.418_c1=0.000_c2=0.262.png)
-![worst example 5](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/deeplab_r101/quality_report/worst/05_000000315467_1972_mDice=0.459_c1=0.383_c2=0.000.png)
+![worst example 1](work_dirs_eval/deeplab_r101/quality_report/worst/01_000000284884_6459_mDice=0.332_c1=0.000_c2=0.000.png)
+![worst example 2](work_dirs_eval/deeplab_r101/quality_report/worst/02_000000445187_3686_mDice=0.342_c1=0.041_c2=0.000.png)
+![worst example 3](work_dirs_eval/deeplab_r101/quality_report/worst/03_000000308083_5809_mDice=0.359_c1=0.000_c2=0.087.png)
+![worst example 4](work_dirs_eval/deeplab_r101/quality_report/worst/04_000000502680_4731_mDice=0.418_c1=0.000_c2=0.262.png)
+![worst example 5](work_dirs_eval/deeplab_r101/quality_report/worst/05_000000315467_1972_mDice=0.459_c1=0.383_c2=0.000.png)
 
 ##### Report
 
@@ -367,19 +367,19 @@ mDice (test subset) = 92.04
 
 Examples of correct predictions:
 
-![best example 1](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/deeplab_r50/quality_report/best/01_000000446604_4215_mDice=0.984_c1=0.973_c2=nan.png)
-![best example 2](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/deeplab_r50/quality_report/best/02_000000414495_3471_mDice=0.983_c1=0.971_c2=nan.png)
-![best example 3](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/deeplab_r50/quality_report/best/03_000000395290_2371_mDice=0.983_c1=0.971_c2=nan.png)
-![best example 4](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/deeplab_r50/quality_report/best/04_000000322321_6994_mDice=0.982_c1=0.967_c2=nan.png)
-![best example 5](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/deeplab_r50/quality_report/best/05_000000563342_7436_mDice=0.981_c1=0.966_c2=nan.png)
+![best example 1](work_dirs_eval/deeplab_r50/quality_report/best/01_000000446604_4215_mDice=0.984_c1=0.973_c2=nan.png)
+![best example 2](work_dirs_eval/deeplab_r50/quality_report/best/02_000000414495_3471_mDice=0.983_c1=0.971_c2=nan.png)
+![best example 3](work_dirs_eval/deeplab_r50/quality_report/best/03_000000395290_2371_mDice=0.983_c1=0.971_c2=nan.png)
+![best example 4](work_dirs_eval/deeplab_r50/quality_report/best/04_000000322321_6994_mDice=0.982_c1=0.967_c2=nan.png)
+![best example 5](work_dirs_eval/deeplab_r50/quality_report/best/05_000000563342_7436_mDice=0.981_c1=0.966_c2=nan.png)
 
 Examples of errors (fails):
 
-![worst example 1](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/deeplab_r50/quality_report/worst/01_000000531614_4831_mDice=0.478_c1=0.434_c2=0.000.png)
-![worst example 2](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/deeplab_r50/quality_report/worst/02_000000436539_4321_mDice=0.525_c1=0.000_c2=0.591.png)
-![worst example 3](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/deeplab_r50/quality_report/worst/03_000000443499_491_mDice=0.600_c1=0.807_c2=0.000.png)
-![worst example 4](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/deeplab_r50/quality_report/worst/04_000000355603_7766_mDice=0.624_c1=0.000_c2=0.879.png)
-![worst example 5](/Users/satanislav/Documents/projects/mmsegmentation/work_dirs_eval/deeplab_r50/quality_report/worst/05_000000282137_4359_mDice=0.637_c1=0.927_c2=0.000.png)
+![worst example 1](work_dirs_eval/deeplab_r50/quality_report/worst/01_000000531614_4831_mDice=0.478_c1=0.434_c2=0.000.png)
+![worst example 2](work_dirs_eval/deeplab_r50/quality_report/worst/02_000000436539_4321_mDice=0.525_c1=0.000_c2=0.591.png)
+![worst example 3](work_dirs_eval/deeplab_r50/quality_report/worst/03_000000443499_491_mDice=0.600_c1=0.807_c2=0.000.png)
+![worst example 4](work_dirs_eval/deeplab_r50/quality_report/worst/04_000000355603_7766_mDice=0.624_c1=0.000_c2=0.879.png)
+![worst example 5](work_dirs_eval/deeplab_r50/quality_report/worst/05_000000282137_4359_mDice=0.637_c1=0.927_c2=0.000.png)
 
 Opportunities for improvement:
 
